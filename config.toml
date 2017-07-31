@@ -1,4 +1,4 @@
-baseurl = "http://skop.eu"
+baseurl = "https://skop.eu"
 title = "Michal Škop"
 canonifyurls = true
 paginate = 10
