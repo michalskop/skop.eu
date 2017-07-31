@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Michal Škop</title>
-    <link>http://skop.eu/tags/</link>
+    <link>https://skop.eu/tags/</link>
     <description>Recent content in Tags on Michal Škop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs</language>
     <copyright>CC-BY-SA-NC.</copyright>
     
-	<atom:link href="http://skop.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://skop.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
