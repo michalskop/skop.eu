@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>uild/post/kaceni/</loc>
+    <loc>https://skop.eu/post/kaceni/</loc>
     <lastmod>2017-08-25T15:52:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>uild/categories/</loc>
+    <loc>https://skop.eu/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>uild/</loc>
-    <lastmod>2017-08-25T15:52:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>uild/tags/plasy/</loc>
+    <loc>https://skop.eu/</loc>
     <lastmod>2017-08-25T15:52:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>uild/categories/plasy/</loc>
+    <loc>https://skop.eu/tags/plasy/</loc>
     <lastmod>2017-08-25T15:52:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>uild/post/</loc>
+    <loc>https://skop.eu/categories/plasy/</loc>
     <lastmod>2017-08-25T15:52:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>uild/tags/</loc>
+    <loc>https://skop.eu/post/</loc>
     <lastmod>2017-08-25T15:52:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>uild/tags/zastupitelstvo/</loc>
+    <loc>https://skop.eu/tags/</loc>
+    <lastmod>2017-08-25T15:52:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://skop.eu/tags/zastupitelstvo/</loc>
     <lastmod>2017-08-25T15:52:20+02:00</lastmod>
     <priority>0</priority>
   </url>

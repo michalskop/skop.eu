@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Michal Škop</title>
-    <link>uild/post/</link>
+    <link>https://skop.eu/post/</link>
     <description>Recent content in Posts on Michal Škop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs</language>
     <copyright>CC-BY-SA-NC.</copyright>
     <lastBuildDate>Fri, 25 Aug 2017 15:52:20 +0200</lastBuildDate>
     
-	<atom:link href="uild/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://skop.eu/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kácení aleje ke studánce</title>
-      <link>uild/post/kaceni/</link>
+      <link>https://skop.eu/post/kaceni/</link>
       <pubDate>Fri, 25 Aug 2017 15:52:20 +0200</pubDate>
       
-      <guid>uild/post/kaceni/</guid>
+      <guid>https://skop.eu/post/kaceni/</guid>
       <description>Musí se všechny smrky cestou ke studánce vykácet? A cestička vyasfaltovat?   Info Kácení Všechny stromy (celkem 68) v aleji od fotbalového hřiště ke studánce Prelátka označené zelenou tečkou už tu za měsíc nemusí být. Naplánovanáno je jejich pokácení po 1.10.2017. (Mapa a detailní popis).
 Asfaltování Tento úsek je naplánováno také vyasfaltovat - postavit zde in-line dráhu. Což je také důvod (jeden z důvodů?) pro kácení stromů. V současné době na ni ale město nemá peníze.</description>
     </item>
