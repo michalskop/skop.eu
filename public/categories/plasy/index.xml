@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Michal Škop</title>
-    <link>uild/</link>
-    <description>Recent content on Michal Škop</description>
+    <title>Plasy on Michal Škop</title>
+    <link>uild/categories/plasy/</link>
+    <description>Recent content in Plasy on Michal Škop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs</language>
     <copyright>CC-BY-SA-NC.</copyright>
     <lastBuildDate>Fri, 25 Aug 2017 15:52:20 +0200</lastBuildDate>
     
-	<atom:link href="uild/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="uild/categories/plasy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

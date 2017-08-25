@@ -2,14 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Michal Škop</title>
-    <link>https://skop.eu/tags/</link>
+    <link>uild/tags/</link>
     <description>Recent content in Tags on Michal Škop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs</language>
     <copyright>CC-BY-SA-NC.</copyright>
+    <lastBuildDate>Fri, 25 Aug 2017 15:52:20 +0200</lastBuildDate>
     
-	<atom:link href="https://skop.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="uild/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Plasy</title>
+      <link>uild/tags/plasy/</link>
+      <pubDate>Fri, 25 Aug 2017 15:52:20 +0200</pubDate>
+      
+      <guid>uild/tags/plasy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zastupitelstvo</title>
+      <link>uild/tags/zastupitelstvo/</link>
+      <pubDate>Fri, 25 Aug 2017 15:52:20 +0200</pubDate>
+      
+      <guid>uild/tags/zastupitelstvo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
