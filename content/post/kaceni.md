@@ -28,6 +28,12 @@ Vzhledem k tomu, že město prý zatím nemá na stavbu peníze, je trochu více
 Nejlepší je říci [svým zastupitelům](http://www.plasy.cz/mesto/zastupitelstvo-2/), co si o tom myslíte. Ať již předem nebo např. na zasedání zastupitelstva, které je zatím naplánované na 20.9.2017 v podvečer. Finální pozvánka musí být na webu města [plasy.cz](http://www.plasy.cz/urad-361/uredni-deska/) minimálně týden předem.
 
 ## <i class="fa fa-file-o"></i> Dokumenty a mapy
+#### <a name="uzemni-studie"></a> Územní studie zeleně
+Podle [Územní studie sídelní zeleně města Plasy jako součást krajinně památkové zóny Plasko](http://www.plasy.cz/e_download.php?file=data/messages/obsah28_22.pdf&original=B.3.3+etapizace.PDF) (a také v [textové části](http://www.plasy.cz/e_download.php?file=data/messages/obsah28_2.pdf&original=A+Plasy_textova-cast.pdf) - karta C01) "stabilní současná vegetace":
+
+<img src="/img/uzemni_studie_zelene.jpg" alt="územní studie sídelní zeleně města Plasy" style="width: 100%;" />
+
+
 #### <a name="mapa-asfaltovani"></a> Plánované kácení v Plasích 2017
 [Podrobné dokumenty ke kácení 2017](http://www.infoprovsechny.cz/request/rozhodnuti_kaceni)
 
