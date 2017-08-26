@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Volby on Michal Škop</title>
+    <link>https://skop.eu/tags/volby/</link>
+    <description>Recent content in Volby on Michal Škop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs</language>
+    <copyright>CC-BY-SA-NC.</copyright>
+    <lastBuildDate>Fri, 23 Dec 2016 15:52:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://skop.eu/tags/volby/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Průzkumy se nepletou. Jejich vykladači ano.</title>
+      <link>https://skop.eu/post/pruzkumy-se-nepletou-jejich-vykladaci-ano/</link>
+      <pubDate>Fri, 23 Dec 2016 15:52:20 +0200</pubDate>
+      
+      <guid>https://skop.eu/post/pruzkumy-se-nepletou-jejich-vykladaci-ano/</guid>
+      <description>Esej pro Neovlivní (originál)
+ Slyšeli jsme to po referendu o Brexitu, slyšeli jsme to i po amerických prezidentských volbách. Průzkumy veřejného mínění zklamaly na celé čáře, vždyť přeci předpovědět Trumpovo vítězství nedokázal nikdo. Nedejte se zmást. Kvalitní průzkumy fungují, fungují dokonce velmi dobře. Ale musíme vědět, co od nich lze a co nelze očekávat.
+ Sám Donald Trump je toho důkazem. V kampani sice prohlašoval, aby lidé průzkumům nevěřili, nicméně i to bylo jen součástí divadla pro jeho voliče – podobně třeba tvrdil, že volby budou zfalšované.</description>
+    </item>
+    
+  </channel>
+</rss>
