@@ -24,8 +24,8 @@ Tento úsek je naplánováno také vyasfaltovat - postavit zde in-line dráhu. C
 #### Kácení
 Poslední možnost se o kácení pobavit a třeba zredukovat jeho rozsah je na **zasedání Zastupitelstva města Plasy**, které je naplánováno na **20.9.2017**. Zastupitelstvo může odhlasovat cokoliv!
 
-Pokud chcete, aby se o tom vůbec jednalo (a při dostatečném množství podpisů občanů se jednat musí ze zákona), **vytiskněte a podepište se** na [tuto žádost o projednání na zastupitelstvu](https://docs.google.com/document/d/1QGA5AjdMO-c3dabZXNE5Ewxc21eFXoZnYGzcsC5dS5U/edit).  
-(*Podepsané prosím doneste: Michal Škop, Vinice 347, Plasy nebo mi dejte vědět - kaceni@skop.eu nebo +420 735 518 529 - a přijdu si pro ně :-)*
+Pokud chcete, aby se o tom vůbec jednalo (a při dostatečném množství podpisů občanů se jednat musí ze zákona), **vytiskněte a podepište se** na [tuto žádost o projednání na zastupitelstvu](https://docs.google.com/document/d/1QGA5AjdMO-c3dabZXNE5Ewxc21eFXoZnYGzcsC5dS5U/edit). (*Podepsané prosím doneste: Michal Škop, Vinice 347, Plasy nebo mi dejte vědět - kaceni@skop.eu nebo +420 735 518 529 - a přijdu si pro ně :-)*  
+Nebo se můžete podepsat přímo na místě, informace s žádostí visejí i přímo **na cestičce u lávky na hřiště** nebo **směrem od studánky**.
 #### Asfaltování
 Vzhledem k tomu, že město prý zatím nemá na stavbu peníze, je trochu více času. Jiná města se ptají svých občanů, co si o plánovaných stavbách myslí (např. anketou, někdy i referendem).
 #### A hlavně...
