@@ -10,7 +10,9 @@ tags: ["Plasy", "zastupitelstvo"]
 ># A cestička vyasfaltovat?
 
 <div class="alert alert-info">
-28.8.2017: Počet podpisů: 92
+28.8.2017  
+Počet podpisů: 92  
+Počet vandalských útoků na letáky: 1
 </div>
 
 ## <i class="fa fa-info-circle"></i> Info
