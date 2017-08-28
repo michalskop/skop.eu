@@ -9,12 +9,16 @@ tags: ["Plasy", "zastupitelstvo"]
 ># Musí se všechny smrky cestou ke studánce vykácet?
 ># A cestička vyasfaltovat?
 
+<div class="alert alert-info">
+28.8.2017: Počet podpisů: 92
+</div>
+
 ## <i class="fa fa-info-circle"></i> Info
 #### Kácení
 Všechny stromy (celkem 68) v aleji od fotbalového hřiště ke studánce Prelátka označené **zelenou tečkou** už tu za měsíc nemusí být. Naplánovanáno je jejich pokácení po **1.10.2017**. *([Mapa a detailní popis](#mapa-kaceni))*.
 
 #### Asfaltování
-Tento úsek je naplánováno také vyasfaltovat - postavit zde in-line dráhu. Což je také důvod (jeden z důvodů?) pro kácení stromů. V současné době na ni ale město nemá peníze. *([Mapa a detailní popis](#mapa-asfaltovani))*.
+Tento úsek je naplánováno také vyasfaltovat - postavit zde in-line dráhu. Což je také důvod (jeden z důvodů?) pro kácení stromů. V současné době na ni ale město nemá peníze. *([Mapa ](#mapa-asfaltovani) + [o detailní popis již požádáno](http://www.infoprovsechny.cz/request/podklady_pro_planovanou_vystavbu))*.
 
 ## <i class="fa fa-heart"></i> Co se dá dělat?
 #### Kácení
@@ -39,6 +43,8 @@ Podle [Územní studie sídelní zeleně města Plasy jako součást krajinně p
 
 <img src="/img/mapa-kaceni.jpg" alt="Plánované kácení v Plasích 2017" style="width: 100%;" />
 #### <a name="mapa-kaceni"></a> Plánované vyasfaltování
+**Detailní popis: [podána žádost o informace](http://www.infoprovsechny.cz/request/podklady_pro_planovanou_vystavbu) (24.8.2017)**
+
 <img src="/img/mapa-stezka.jpg" alt="Plánované vyasfaltování" style="width: 100%;" />
 
 #### Letos naposledy stínem?
