@@ -12,7 +12,7 @@ tags: ["Plasy", "zastupitelstvo"]
 <div class="alert alert-info">
 29.8.2017<br>
 Počet podpisů: 134<br>
-Počet kousnutí mravencem při sběru podpisů: 1<br>
+Počet kousnutí mravencem při sběru podpisů: 2<br>
 </div>
 
 ## <i class="fa fa-info-circle"></i> Info
