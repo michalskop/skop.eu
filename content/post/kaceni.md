@@ -12,7 +12,7 @@ tags: ["Plasy", "zastupitelstvo"]
 <div class="alert alert-info">
 29.8.2017<br>
 Počet podpisů: 134<br>
-Počet kousnutí mravencem při sběru podpisů: 2<br>
+Přidejte se do <a href="https://www.facebook.com/groups/1105387916168181/">Facebookové skupiny "Plasy"</a>
 </div>
 
 ## <i class="fa fa-info-circle"></i> Info
