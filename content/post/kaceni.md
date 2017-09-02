@@ -10,8 +10,8 @@ tags: ["Plasy", "zastupitelstvo"]
 ># A cestička vyasfaltovat?
 
 <div class="alert alert-info">
-29.8.2017<br>
-Počet podpisů: 134<br>
+1.9.2017<br>
+Počet podpisů: 156<br>
 Přidejte se do <a href="https://www.facebook.com/groups/1105387916168181/">Facebookové skupiny "Plasy"</a>
 </div>
 
