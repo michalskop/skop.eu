@@ -39,6 +39,11 @@ Podle [Územní studie sídelní zeleně města Plasy jako součást krajinně p
 
 <img src="/img/uzemni_studie_zelene.jpg" alt="územní studie sídelní zeleně města Plasy" style="width: 100%;" />
 
+#### <a name="zapis-kzp-2016-02-08"></a> Zápis z jednání komise pro životní prostředí 8.2.2016
+Dle [zápisu z jednání komise pro životní prostředí z 8.2.2016](http://www.plasy.cz/e_download.php?file=data/editor/467cs_1.pdf&original=01+Zapis+KZP+8.2.2016.pdf) *komise souhlasí s kácením aleje starých smrků*. Jako důvod je zde uvedeno: *Stromy jsou staré a průběžně odumírají a vyvrací se. Stromy představují určité nebezpečí pro chodce za silného větru. Mělce uložené kořeny pak neumožňují **kvalitní výstavbu dráhy** a na druhou stranu jejich odstranění způsobí rychlejší odumírání aleje. Komise konstatovala, že alej je částečně obnovena výsadbou smrku a douglasky a náletovými jedinci dubu. **Při kácení je třeba šetřit tyto mladé stromky**. Volná místa po poražených stromech lze doplnit co nejpestřejší výsadbou. Tyto mladé stromky svými kořeny nepředstavují žádné ohrožení po dobu životnosti asfaltové dráhy.*
+
+#### <a name="zapis-kzp-2015-08-24"></a> Zápis z jednání komise pro životní prostředí 24.8.2015
+[Zápis komise](http://www.plasy.cz/e_download.php?file=data/editor/467cs_61.pdf&original=08_Z%C3%A1pis+KZP+24.08.2015.pdf): Komise vyznačila 14 smrků k pokácení. Jednalo se o stromy s prasklým kmenem, s uraženou špicí, stromy suché, ale většina stromů byla vyznačena k uvolnění nadějných, až 4 m vysokých dubů a **odrůstající výsadby smrků**. Dojde tak k **pozvolné obměně dřevin**.
 
 #### <a name="mapa-asfaltovani"></a> Plánované kácení v Plasích 2017
 [Podrobné dokumenty ke kácení 2017](http://www.infoprovsechny.cz/request/rozhodnuti_kaceni)
