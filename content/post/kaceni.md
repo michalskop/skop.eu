@@ -10,14 +10,15 @@ tags: ["Plasy", "zastupitelstvo"]
 ># A cestička vyasfaltovat?
 
 <div class="alert alert-info">
-3.9.2017<br>
-Počet podpisů: 192<br>
+13.9.2017<br>
+Archy s dostatečným počtem podpisů odevzdány na radnici, ale ještě stále není na webu <a href="http://www.plasy.cz/urad-361/uredni-deska/">plasy.cz</a> vyhlášený termín zastupitelstva.<br>
+Počet podpisů: 337<br>
 Přidejte se do <a href="https://www.facebook.com/groups/1105387916168181/">Facebookové skupiny "Plasy"</a>
 </div>
 
 ## <i class="fa fa-info-circle"></i> Info
 #### Kácení
-Všechny stromy (celkem 68) v aleji od fotbalového hřiště ke studánce Prelátka označené **zelenou tečkou** už tu za měsíc nemusí být. Naplánovanáno je jejich pokácení po **1.10.2017**. *([Mapa a detailní popis](#mapa-kaceni))*.
+Všechny stromy (celkem více jak 70) v aleji od fotbalového hřiště ke studánce Prelátka označené **zelenou tečkou** už tu za měsíc nemusí být. Naplánovanáno je jejich pokácení po **1.10.2017**. *([Mapa a detailní popis](#mapa-kaceni))*.
 
 #### Asfaltování
 Tento úsek je naplánováno také vyasfaltovat - postavit zde in-line dráhu. Což je také důvod (jeden z důvodů?) pro kácení stromů. V současné době na ni ale město nemá peníze. *([Mapa ](#mapa-asfaltovani) + [o detailní popis již požádáno](http://www.infoprovsechny.cz/request/podklady_pro_planovanou_vystavbu))*.
@@ -50,8 +51,11 @@ Dle [zápisu z jednání komise pro životní prostředí z 8.2.2016](http://www
 
 <img src="/img/mapa-kaceni.jpg" alt="Plánované kácení v Plasích 2017" style="width: 100%;" />
 #### <a name="mapa-kaceni"></a> Plánované vyasfaltování
-**Detailní popis: [podána žádost o informace](http://www.infoprovsechny.cz/request/podklady_pro_planovanou_vystavbu) (24.8.2017)**
+**Detailní popis: [Průvodní zpráva](http://www.plasy.cz/e_download.php?file=data/messages/obsah29_23.pdf&original=A.%20PR%C5%AEVODN%C3%8D%20ZPR%C3%81VA.pdf)** a **[mapa](http://www.plasy.cz/e_download.php?file=data/messages/obsah29_22.pdf&original=B.3%20KOORDINAN%C4%8CN%C3%8D%20SITUACE%20-2.%C4%8C%C3%81ST.pdf)**
 
+*Mimochodem, na mapě jsou zakreslené listnáče u plánovaného otáčení na in-line dráze, které ale jsou také označeny zeleným bodem jako na pokácení.*
+
+Přehledná mapa:
 <img src="/img/mapa-stezka.jpg" alt="Plánované vyasfaltování" style="width: 100%;" />
 
 #### Letos naposledy stínem?
