@@ -10,8 +10,10 @@ tags: ["Plasy", "zastupitelstvo"]
 ># A cestička vyasfaltovat?
 
 <div class="alert alert-info">
-13.9.2017<br>
-Archy s dostatečným počtem podpisů odevzdány na radnici, ale ještě stále není na webu <a href="http://www.plasy.cz/urad-361/uredni-deska/">plasy.cz</a> vyhlášený termín zastupitelstva.<br>
+15.9.2017<br>
+Rozhodne se <strong>20.9.2017</strong> na zasedání zastupitelstva (sál Matheye, vedle knihovny), začátek 17:00 - <a href="http://www.plasy.cz/e_download.php?file=data/messages/obsah41_2.pdf&original=13-2017.pdf">pozvánka</a><br>
+Archy s dostatečným počtem podpisů odevzdány na radnici, bohužel vedení města zařadilo tento <em>nepřekvapivě</em> až na závěr  jednání, takže je pravděpodobné, že na něj dojde až dosti večer.<br>
+<strong>Přijďte zastupitelům říci, co si myslíte - každý občan může na zastupitelstvu vystoupit!</strong>
 Počet podpisů: 337<br>
 Přidejte se do <a href="https://www.facebook.com/groups/1105387916168181/">Facebookové skupiny "Plasy"</a>
 </div>
