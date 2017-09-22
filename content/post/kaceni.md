@@ -11,7 +11,7 @@ tags: ["Plasy", "zastupitelstvo"]
 
 <div class="alert alert-info">
 22.9.2017<br>
-<a href="https://www.youtube.com/watch?v=OA9b-2eh7U4&index=2&list=PLlCUqSwBdgZCd3O98tXT_PPxJ3YGMUwdu">Video ze zasedání zastupitelstva<br>
+<a href="https://www.youtube.com/watch?v=OA9b-2eh7U4&index=2&list=PLlCUqSwBdgZCd3O98tXT_PPxJ3YGMUwdu">Video ze zasedání zastupitelstva</a><br>
 Podle poměrně bouřlivé diskusi na zastupitelstvu jsme se dozvěděli, že kácet se letos bude nanejvýš několik stromů.<br>
 Jak to bude dále s inline dráhou se v podstatě neví. Neví se, kdo ji chce, stavět se má nejspíše jen proto, že je v Akčním plánu Plas.<br>
 Přidejte se do <a href="https://www.facebook.com/groups/1105387916168181/">Facebookové skupiny "Plasy"</a>
