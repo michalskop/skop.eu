@@ -1,5 +1,5 @@
 ---
-title: "Souboj volebních kalkulače"
+title: "Souboj volebních kalkulaček"
 date: 2017-10-05T04:50:00+02:00
 draft: false
 image: "/img/cs.jpg"
@@ -54,4 +54,4 @@ Volební kalkulačky neslouží jenom k tomu, aby lidem pomohli s výběrem stra
 
 Nicméně celkem vzhledem k tomu problému s počítáním neutrálních odpovědí musím říci, že za sebe bych doporučil se <i>Volebnímu testu Aktuálně.cz</i> vyhnout. Ale třeba ten výpočet ještě upraví, nic složitého to zase není.
 
-<i>Napsáno pro <a href="http://hlidacipes.org/souboj%E2%80%8B-%E2%80%8Bvolebnich%E2%80%8B-%E2%80%8Bkalkulacek%E2%80%8B-%E2%80%8B-%E2%80%8Bjak-cist-rady/">Hlídacího psa</i>
+<i>Napsáno pro <a href="http://hlidacipes.org/souboj%E2%80%8B-%E2%80%8Bvolebnich%E2%80%8B-%E2%80%8Bkalkulacek%E2%80%8B-%E2%80%8B-%E2%80%8Bjak-cist-rady/">Hlídacího psa</a></i>.
