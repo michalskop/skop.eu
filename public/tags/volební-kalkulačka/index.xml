@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Volební Kalkulačka on Michal Škop</title>
+    <link>https://skop.eu/tags/volebn%C3%AD-kalkula%C4%8Dka/</link>
+    <description>Recent content in Volební Kalkulačka on Michal Škop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs</language>
+    <copyright>CC-BY-SA-NC.</copyright>
+    <lastBuildDate>Thu, 05 Oct 2017 04:50:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://skop.eu/tags/volebn%C3%AD-kalkula%C4%8Dka/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Souboj volebních kalkulače</title>
+      <link>https://skop.eu/post/souboj_volebni_kalkulacek/</link>
+      <pubDate>Thu, 05 Oct 2017 04:50:00 +0200</pubDate>
+      
+      <guid>https://skop.eu/post/souboj_volebni_kalkulacek/</guid>
+      <description>td {border-bottom: 1px solid #dddddd; border-right: 1px solid #dddddd;}  Volební kalkulačky jsou dnes pro lidi jedním z podstatných předvolebních zdrojů. Před volbami je v Česku, v závislosti na typu voleb, použije něco mezi 10 a 25 % voličů, ale letos to velice pravděpodobně bude ještě více. Ve Skandinávii nebo Nizozemí je to už přes 50 % voličů.
+Dvěma třetinám uživatelů volební kalkulačka pomůže s výběrem strany a 20 % lidí dokonce přesvědčí, aby volili l někoho jiného, než před tím chtěli.</description>
+    </item>
+    
+  </channel>
+</rss>
