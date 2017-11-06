@@ -63,3 +63,5 @@ Interaktivní verze: http://bl.ocks.org/michalskop/raw/1429e8e90a1c15e550e885ea6
 Na závěr ještě mapa ČR obarvená dle toho, která strana v obci zvítězila. Tentokrát dost monotónní:
 ![ČR](/img/volebni-mapy-2017/czechia.png)
 Interaktivní verze: http://bl.ocks.org/michalskop/raw/eccd4896fcc092ffeba37ea074d7aa75/
+
+<iframe width="0" scrolling="no" height="0" frameborder="0" src="https://volebnikalkulacka.cz/session" seamless="seamless"></iframe>

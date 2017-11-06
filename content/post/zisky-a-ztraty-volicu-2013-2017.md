@@ -41,3 +41,5 @@ Celkový přehled je v následujícím grafu:
 ![Overview](/img/zisky-ztraty-2013-2017/overview.png)
 
 Tyto odhady byly získány metodou [ekologické inference](https://gking.harvard.edu/category/research-interests/methods/ecological-inference), která porovnává výsledky z roku 2013 a 2017 na úrovni více než 14 000 volebních okrsků ČR.
+
+<iframe width="0" scrolling="no" height="0" frameborder="0" src="https://volebnikalkulacka.cz/session" seamless="seamless"></iframe>

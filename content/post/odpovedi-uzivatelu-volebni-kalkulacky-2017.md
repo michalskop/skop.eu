@@ -46,3 +46,5 @@ Zajímavý je zde rozdíl mezi Zelenými a Piráty – zatímco Zelení se objev
 Podobné hodnocení před loňskými senátními volbami: http://zpravy.idnes.cz/vyslecky-volebni-kalkulacky-kohovolit-eu-fif-/domaci.aspx?c=A161003_140935_domaci_jav
 
 Všechna data a výsledky najdete zde: https://docs.google.com/spreadsheets/d/1qLGxeWCkg2OrDB6sS2ThXQiKfFUsT84vHnprr_-Lojs/edit?usp=sharing
+
+<iframe width="0" scrolling="no" height="0" frameborder="0" src="https://volebnikalkulacka.cz/session" seamless="seamless"></iframe>
