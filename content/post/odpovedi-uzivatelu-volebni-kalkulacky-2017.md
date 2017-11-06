@@ -48,6 +48,6 @@ Podobné hodnocení před loňskými senátními volbami: http://zpravy.idnes.cz
 Všechna data a výsledky najdete zde: https://docs.google.com/spreadsheets/d/1qLGxeWCkg2OrDB6sS2ThXQiKfFUsT84vHnprr_-Lojs/edit?usp=sharing
 
 ## Shoda stran ve Volební kalkulačce
-![Shoda]('/img/docs/shoda_ve_volebni_kalkulacce.png')
+![Shoda](/img/docs/shoda_ve_volebni_kalkulacce.png)
 
 <iframe width="0" scrolling="no" height="0" frameborder="0" src="https://volebnikalkulacka.cz/session" seamless="seamless"></iframe>

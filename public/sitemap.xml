@@ -55,13 +55,13 @@
   </url>
   
   <url>
-    <loc>https://skop.eu/categories/plasy/</loc>
+    <loc>https://skop.eu/tags/plasy/</loc>
     <lastmod>2017-08-25T15:52:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://skop.eu/tags/plasy/</loc>
+    <loc>https://skop.eu/categories/plasy/</loc>
     <lastmod>2017-08-25T15:52:20+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -73,13 +73,13 @@
   </url>
   
   <url>
-    <loc>https://skop.eu/categories/pr%C5%AFzkumy/</loc>
+    <loc>https://skop.eu/tags/pr%C5%AFzkumy/</loc>
     <lastmod>2016-12-23T15:52:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://skop.eu/tags/pr%C5%AFzkumy/</loc>
+    <loc>https://skop.eu/categories/pr%C5%AFzkumy/</loc>
     <lastmod>2016-12-23T15:52:20+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -97,25 +97,25 @@
   </url>
   
   <url>
-    <loc>https://skop.eu/categories/volby/</loc>
-    <lastmod>2017-11-06T05:52:20+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://skop.eu/tags/volby/</loc>
     <lastmod>2017-11-06T05:52:20+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://skop.eu/categories/volebn%C3%AD-kalkula%C4%8Dka/</loc>
-    <lastmod>2017-10-14T15:52:20+01:00</lastmod>
+    <loc>https://skop.eu/categories/volby/</loc>
+    <lastmod>2017-11-06T05:52:20+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://skop.eu/tags/volebn%C3%AD-kalkula%C4%8Dka/</loc>
+    <lastmod>2017-10-14T15:52:20+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://skop.eu/categories/volebn%C3%AD-kalkula%C4%8Dka/</loc>
     <lastmod>2017-10-14T15:52:20+01:00</lastmod>
     <priority>0</priority>
   </url>
