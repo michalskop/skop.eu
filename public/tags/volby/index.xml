@@ -7,10 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>cs</language>
     <copyright>CC-BY-SA-NC.</copyright>
-    <lastBuildDate>Thu, 05 Oct 2017 04:50:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2017 05:52:20 +0100</lastBuildDate>
     
 	<atom:link href="https://skop.eu/tags/volby/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Volební mapy 2017</title>
+      <link>https://skop.eu/post/volebni-mapy-2017/</link>
+      <pubDate>Mon, 06 Nov 2017 05:52:20 +0100</pubDate>
+      
+      <guid>https://skop.eu/post/volebni-mapy-2017/</guid>
+      <description>Volební mapy 2017 Ve volbách 2017 se geograficky strany rozdělily do 2 hlavních skupin:
+ ANO, SPD, KSČM, ČSSD ODS, Piráti, TOP 09, STAN  Lidovci (KDU-ČSL) jako tradičně úplně nezapadali ani do jedné skupiny.
+Následující mapy ukazují pro každou stranu, kde získávala nejvíce hlasů (vyznačenou zelenou až modrou barvou), kde získala průměrně (šedá) a kde podprůměrně (červená).
+ANO, SPD, KSČM, ČSSD Tyto strany (s menšími odchylkami) získávaly hlavně na Ostravsku/Severní Moravě a Slezsku a poté v Severozápadních Čechách.</description>
+    </item>
+    
+    <item>
+      <title>Zisky a ztráty voličů v roce 2017 oproti roku 2013</title>
+      <link>https://skop.eu/post/zisky-a-ztraty-volicu-2013-2017/</link>
+      <pubDate>Mon, 23 Oct 2017 05:52:20 +0200</pubDate>
+      
+      <guid>https://skop.eu/post/zisky-a-ztraty-volicu-2013-2017/</guid>
+      <description>Článek pro HlídacíPes.org (originál)
+Zisky a ztráty voličů v roce 2017 oproti roku 2013 Pro Babiše letos hlasovalo 1.5 milionu lidí, o půl milionu více než v roce 2013. Přitom mu ale pouze půl milionu voličů zůstalo od minule, půl milionu jich ztratil! Místo nich ovšem dokázal přesvědčit milion jiných. Nejvíce hlasů získal na levici – od ČSSD odešla 1&amp;frasl;3 voličů (více jak 1&amp;frasl;3 milionu), od KSČM více jak ¼ voličů (200 tis.</description>
+    </item>
+    
+    <item>
+      <title>Odpovědi uživatelů volební kalkulačky 2017</title>
+      <link>https://skop.eu/post/odpovedi-uzivatelu-volebni-kalkulacky-2017/</link>
+      <pubDate>Sat, 14 Oct 2017 15:52:20 +0100</pubDate>
+      
+      <guid>https://skop.eu/post/odpovedi-uzivatelu-volebni-kalkulacky-2017/</guid>
+      <description>Článek pro iDnes.cz (originál)
+ Česká republika by podle čtenářů iDNES.cz měla setrvat v Evropské unie, většina by dokonce uvítala, kdyby jsme se dostali do jejího jádra. Přesto se dvě třetiny stavějí proti přijetí jednotné evropské měny. Vyplývá to z odpovědí čtenářů ve volební kalkulačce sdružení KohoVolit.eu.
+ Volební kalkulačka je tradiční předvolební aplikace připravená sdružením KohoVolit.eu, která srovnává postoje uživatelů s názory stran. Je dostupná také přímo na stránkách iDNES.</description>
+    </item>
     
     <item>
       <title>Souboj volebních kalkulaček</title>

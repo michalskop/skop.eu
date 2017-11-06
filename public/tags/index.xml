@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>cs</language>
     <copyright>CC-BY-SA-NC.</copyright>
-    <lastBuildDate>Fri, 25 Aug 2017 15:52:20 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2017 05:52:20 +0100</lastBuildDate>
     
 	<atom:link href="https://skop.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mapy</title>
+      <link>https://skop.eu/tags/mapy/</link>
+      <pubDate>Mon, 06 Nov 2017 05:52:20 +0100</pubDate>
+      
+      <guid>https://skop.eu/tags/mapy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Plasy</title>
@@ -33,7 +42,7 @@
     <item>
       <title>Statistika</title>
       <link>https://skop.eu/tags/statistika/</link>
-      <pubDate>Fri, 23 Dec 2016 15:52:20 +0200</pubDate>
+      <pubDate>Mon, 23 Oct 2017 05:52:20 +0200</pubDate>
       
       <guid>https://skop.eu/tags/statistika/</guid>
       <description></description>
@@ -42,7 +51,7 @@
     <item>
       <title>Volby</title>
       <link>https://skop.eu/tags/volby/</link>
-      <pubDate>Thu, 05 Oct 2017 04:50:00 +0200</pubDate>
+      <pubDate>Mon, 06 Nov 2017 05:52:20 +0100</pubDate>
       
       <guid>https://skop.eu/tags/volby/</guid>
       <description></description>
@@ -51,7 +60,7 @@
     <item>
       <title>Volební Kalkulačka</title>
       <link>https://skop.eu/tags/volebn%C3%AD-kalkula%C4%8Dka/</link>
-      <pubDate>Thu, 05 Oct 2017 04:50:00 +0200</pubDate>
+      <pubDate>Sat, 14 Oct 2017 15:52:20 +0100</pubDate>
       
       <guid>https://skop.eu/tags/volebn%C3%AD-kalkula%C4%8Dka/</guid>
       <description></description>
