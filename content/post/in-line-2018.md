@@ -7,7 +7,7 @@ categories: ["Plasy"]
 tags: ["Plasy", "zastupitelstvo"]
 ---
 <div class="alert alert-info">
-29.6.2018<br/>
+Stav 26.6.2018<br/>
 V současné době je <strong>schváleno zastupitelstvem přijetí dotace</strong> na in-line dráhu od sádek kolem areálu Velká louka, kolem lávky ke hřišti až k odbočce pěšinky na Máj.
 <p><strong>Není zatím schválena samotná stavba</strong> in-line dráhy v této variantě s plánovanou účastí města 2 miliony Kč.
 </div>
