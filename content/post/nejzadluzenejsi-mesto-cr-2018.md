@@ -49,3 +49,10 @@ Současné vedení města sice Plasy [průběžně zadlužovalo](http://monitor.
 - [Zákon o pravidlech rozpočtové odpovědnosti 23 / 2017 Sb.](https://www.zakonyprolidi.cz/cs/2017-23#p17)
 - [Přehled hospodaření Plas od roku 2010 - Monitor státní pokladny](http://monitor.statnipokladna.cz/2017/obce/detail/00258245#prehled)
 - [Výpočet zadlužení Plasy 2018 a přehled zadlužení měst ČR](https://docs.google.com/spreadsheets/d/1zA9ZXwcf-sV11XfWUfPqyHObY3y4wPP-MTrG4YJJlAI/edit#gid=0)
+- [Zákon o rozpočtovém určení daní](https://www.zakonyprolidi.cz/cs/2000-243#p6) - algoritmus pozastavení platby
+- [Důvodová zpráva k Zákonu o pravidlech rozpočtové odpovědnosti](http://www.psp.cz/sqw/text/tiskt.sqw?O=7&CT=412&CT1=0)
+- [Materiál ke školení k Zákonu o pravidlech rozpočtové odpovědnosti](http://www.obecuctuje.cz/stahnout_dokument.php?id_dokumenty=1491) ([kopie](/nejzadluzenejsi-mesto-cr-2018/2017_Material_rozpoctova_odpovednost.docx))
+- [Článek MFČR k Zákonu o pravidlech rozpočtové odpovědnosti](https://www.mfcr.cz/cs/aktualne/v-mediich/2017/petr-pavelek-zakon-o-rozpoctove-odpovedn-27438)
+- [Zpráva MFČR pro finanční orgány obcí a krajů - Pravidla rozpočtové odpovědnosti](/nejzadluzenejsi-mesto-cr-2018/zpravy_mfcr.pdf)
+
+<small>16.7.2018 - doplněny odkazy na některé dokumenty</small>
