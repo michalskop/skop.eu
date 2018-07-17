@@ -31,9 +31,9 @@ Od areálu Velká louka k odbočce k Máji: In-line dráha je plánovaná asfalt
 ### Zastupitelstvo 13.6.2018
 Zastupitelstvo města 13.6.2018 nejprve (1.) hlasováním **rozhodlo o odmítnutí realizace stavby in-line dráhy a odmítnutí dotace** (de facto tím o zastavení projektu in-line dráhy). Nicméně po přestávce padl návrh na návrat k tomuto bodu. Hlasovalo se znovu, zda se k tomuto bodu vrátit. V (2.) hlasování zastupitelstvo rozhodlo o tom, že už se **k in-line dráze nebude vracet**.
 
-Přesto p. Hanzlíček, který schůzi řídil, nechal dále zastupitele diskutovat a poté vyvolal další (3.) hlasování, kde se v pozměněném usnesení hlasovalo pouze o přijetí dotace a **dotace se přijala**. Nebylo ale rozhodnuto o samotné stavbě in-line dráhy.
+Přesto p. Hanzlíček, který schůzi řídil, nechal dále zastupitele diskutovat a poté vyvolal další (3.) hlasování, zda se k projednávání vrátit a následně se v pozměněném usnesení (4.) hlasovalo pouze o přijetí dotace a **dotace se přijala**. Nebylo ale rozhodnuto o samotné stavbě in-line dráhy.
 
-<i class="fa fa-file-o"></i> Dokumenty: [Video ze zastupitelstva - první část](https://youtu.be/TWtZ-eryiVY?t=41m10s), [video ze zastupitelstva - druhá část](https://youtu.be/fiOUkImUR1I?t=56m50s), (pozn.: zápis ze zastupitelstva ještě není na webu města k dispozici)
+<i class="fa fa-file-o"></i> Dokumenty: [Video ze zastupitelstva - první část](https://youtu.be/TWtZ-eryiVY?t=41m10s), [video ze zastupitelstva - druhá část](https://youtu.be/fiOUkImUR1I?t=56m50s), [Zápis ze zasedání](http://www.plasy.cz/e_download.php?file=data/editor/519cs_2.pdf&original=Zast16-2018.pdf)
 
 ### Zastupitelsto 14.3.2018
 Zastupitelstvu bylo oznámeno podání žádosti o dotaci na in-line dráhu.
