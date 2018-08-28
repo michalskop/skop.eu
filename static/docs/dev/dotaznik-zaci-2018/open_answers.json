@@ -1,0 +1,521 @@
+[{
+        "question": "Něco dalšího, co se ti ve škole líbí?",
+        "values": [{
+                "label": "Nic",
+                "value": 12
+            },
+            {
+                "label": "nevim",
+                "value": 5
+            },
+            {
+                "label": "Přestávky",
+                "value": 3
+            },
+            {
+                "label": "pěvecká soutěž DO-RE-MI",
+                "value": 3
+            },
+            {
+                "label": "Vybavení školy",
+                "value": 2
+            },
+            {
+                "label": "skříňky",
+                "value": 2
+            },
+            {
+                "label": "kamarádi ",
+                "value": 2
+            },
+            {
+                "label": "* čl. Učit. sboru",
+                "value": 2
+            },
+            {
+                "label": "ze ucitele vysvetli nejake zadani, dokazou pomoct",
+                "value": 1
+            },
+            {
+                "label": "že tu jsou hodní učitelé",
+                "value": 1
+            },
+            {
+                "label": "že můžeme chodit ven o velkých přestávkách",
+                "value": 1
+            },
+            {
+                "label": "Všechno",
+                "value": 1
+            },
+            {
+                "label": "Volné hodiny.",
+                "value": 1
+            },
+            {
+                "label": "Učitelé si s námi povídají.",
+                "value": 1
+            },
+            {
+                "label": "tělocvik(florbal, softbal, fotbal),kamarádi a některé chápavé vysvětlení učitelek",
+                "value": 1
+            },
+            {
+                "label": "tělocvik",
+                "value": 1
+            },
+            {
+                "label": "počítačovka",
+                "value": 1
+            },
+            {
+                "label": "možnost chodit ven na hřiště o velké přestávce ",
+                "value": 1
+            },
+            {
+                "label": "modely vycpaních zvířat",
+                "value": 1
+            },
+            {
+                "label": "mlíčka do škol",
+                "value": 1
+            },
+            {
+                "label": "líbí se mi tělocvična",
+                "value": 1
+            },
+            {
+                "label": "když si chci 'vyladit' známku, tak učitelé mají zájem.",
+                "value": 1
+            },
+            {
+                "label": "je zhledově hezká,a učitelé sou hodní.",
+                "value": 1
+            },
+            {
+                "label": "hřiště,",
+                "value": 1
+            },
+            {
+                "label": "holky",
+                "value": 1
+            },
+            {
+                "label": "akce",
+                "value": 1
+            },
+            {
+                "label": "* sprosté slovo",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "question": "Něco dalšího, co se ti ve škole nelíbí?",
+        "values": [{
+                "label": "nic",
+                "value": 6
+            },
+            {
+                "label": "všechno",
+                "value": 5
+            },
+            {
+                "label": "o malých přestávkách nemůžeme jít ven  ",
+                "value": 4
+            },
+            {
+                "label": "chování některých učitelů a učitelek ",
+                "value": 3
+            },
+            {
+                "label": "Chování spolužáků",
+                "value": 3
+            },
+            {
+                "label": "nevim",
+                "value": 3
+            },
+            {
+                "label": "Nemůžeme poslouchat hudbu na reproduktorech",
+                "value": 2
+            },
+            {
+                "label": "vlastnosti chovani čl. Vedení",
+                "value": 2
+            },
+            {
+                "label": "* čl. Učit. sboru",
+                "value": 2
+            },
+            {
+                "label": "domácí úkoly",
+                "value": 1
+            },
+            {
+                "label": "když si učitel na někoho zasedne, až moc testů",
+                "value": 1
+            },
+            {
+                "label": "komunita ve třídě",
+                "value": 1
+            },
+            {
+                "label": "Moc hlídané přestávky, když se snažíme učitelkám něco vysvětlit, nevěří nám.",
+                "value": 1
+            },
+            {
+                "label": "není bufet",
+                "value": 1
+            },
+            {
+                "label": "není tu wifi ",
+                "value": 1
+            },
+            {
+                "label": "no chtěla bych zlepšit malbu na zdech a popřípadě lepší učebnice",
+                "value": 1
+            },
+            {
+                "label": "Psaní testů hodně často.",
+                "value": 1
+            },
+            {
+                "label": "reproduktory ve třídě",
+                "value": 1
+            },
+            {
+                "label": "Stravování ve školní jídelně",
+                "value": 1
+            },
+            {
+                "label": "Nemožnost vylepsit znamku",
+                "value": 1
+            },
+            {
+                "label": "učebna fyziky ",
+                "value": 1
+            },
+            {
+                "label": "Učení",
+                "value": 1
+            },
+            {
+                "label": "učitelé, od kterých moc nechápu látku (anonym)",
+                "value": 1
+            },
+            {
+                "label": "vybavení.",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "question": "Co by se v naší škole dalo zlepšít?",
+        "values": [{
+                "label": "školní jídelna (obědy)",
+                "value": 14
+            },
+            {
+                "label": "Nic",
+                "value": 6
+            },
+            {
+                "label": "WiFi",
+                "value": 4
+            },
+            {
+                "label": "automaty (jídlo, pití), bufet",
+                "value": 4
+            },
+            {
+                "label": "Všechno",
+                "value": 3
+            },
+            {
+                "label": "některý učitel/ka",
+                "value": 3
+            },
+            {
+                "label": "nevim",
+                "value": 2
+            },
+            {
+                "label": "chovaní učitelek o přestávkách ",
+                "value": 2
+            },
+            {
+                "label": "Známkování.",
+                "value": 1
+            },
+            {
+                "label": "více výletu",
+                "value": 1
+            },
+            {
+                "label": "Víc volnosti při přestavkách.",
+                "value": 1
+            },
+            {
+                "label": "trochu to chovani ",
+                "value": 1
+            },
+            {
+                "label": "technika",
+                "value": 1
+            },
+            {
+                "label": "Sportovat více zahraničný sporty",
+                "value": 1
+            },
+            {
+                "label": "přístup učitelů",
+                "value": 1
+            },
+            {
+                "label": "občerstvení",
+                "value": 1
+            },
+            {
+                "label": "Kratší vyučování",
+                "value": 1
+            },
+            {
+                "label": "kabinet tělocviku",
+                "value": 1
+            },
+            {
+                "label": "* jiný čl. Učit. Sboru, vice ucitelu",
+                "value": 1
+            },
+            {
+                "label": "IQ",
+                "value": 1
+            },
+            {
+                "label": "* Ať  se někdy učitelé neptají",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "question": "Co ti v naší škole chybí?",
+        "values": [{
+                "label": "wifi, internet",
+                "value": 28
+            },
+            {
+                "label": "automaty na pití a jídlo, bufet",
+                "value": 24
+            },
+            {
+                "label": "Nic",
+                "value": 3
+            },
+            {
+                "label": "nevim",
+                "value": 2
+            },
+            {
+                "label": "* přijemnost čl.učit.sboru",
+                "value": 2
+            },
+            {
+                "label": "vše",
+                "value": 1
+            },
+            {
+                "label": "volnost",
+                "value": 1
+            },
+            {
+                "label": "Slazená mlíčka.",
+                "value": 1
+            },
+            {
+                "label": "Procházky do přírody",
+                "value": 1
+            },
+            {
+                "label": "pousteni pisnicek",
+                "value": 1
+            },
+            {
+                "label": "málo hodin tělesné výchovy",
+                "value": 1
+            },
+            {
+                "label": "klimatizace",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "question": "Které akce školy se ti líbí?",
+        "values": [{
+                "label": "Žádná",
+                "value": 10
+            },
+            {
+                "label": "výlety",
+                "value": 8
+            },
+            {
+                "label": "koncerty",
+                "value": 6
+            },
+            {
+                "label": "Dětský den.",
+                "value": 5
+            },
+            {
+                "label": "sportovní soutěže, turnaj v přehazované, florbal",
+                "value": 5
+            },
+            {
+                "label": "evakuace školy ",
+                "value": 3
+            },
+            {
+                "label": "Nevím",
+                "value": 3
+            },
+            {
+                "label": "vánoční aerobik",
+                "value": 3
+            },
+            {
+                "label": "všechny",
+                "value": 3
+            },
+            {
+                "label": "Cokoliv, jen když se neučíme ;)",
+                "value": 2
+            },
+            {
+                "label": "exkurze",
+                "value": 2
+            },
+            {
+                "label": "divadlo",
+                "value": 1
+            },
+            {
+                "label": "Doremi",
+                "value": 1
+            },
+            {
+                "label": "LVK",
+                "value": 1
+            },
+            {
+                "label": "Plaza Plzen",
+                "value": 1
+            },
+            {
+                "label": "* akce",
+                "value": 1
+            },
+            {
+                "label": "přestávka",
+                "value": 1
+            },
+            {
+                "label": "ZOO Praha",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "question": "Které další akce by škola mohla pořádat?",
+        "values": [{
+                "label": "Nevím",
+                "value": 12
+            },
+            {
+                "label": "výlety (více výletů, do přírody, na jednu noc)",
+                "value": 6
+            },
+            {
+                "label": "soutěže",
+                "value": 5
+            },
+            {
+                "label": "párty ",
+                "value": 3
+            },
+            {
+                "label": "nic",
+                "value": 3
+            },
+            {
+                "label": "Spaní ve škole  ",
+                "value": 2
+            },
+            {
+                "label": "3 denni vylety",
+                "value": 2
+            },
+            {
+                "label": "ZOO Chomutov a JumpArena",
+                "value": 1
+            },
+            {
+                "label": "Více zajímavé",
+                "value": 1
+            },
+            {
+                "label": "v létě by nás mohli brát např. na bazén...",
+                "value": 1
+            },
+            {
+                "label": "Programatorské závody",
+                "value": 1
+            },
+            {
+                "label": "Procházky",
+                "value": 1
+            },
+            {
+                "label": "nějakou tombolu atd",
+                "value": 1
+            },
+            {
+                "label": "něco co neni tak laciný",
+                "value": 1
+            },
+            {
+                "label": "laser game,paint ball",
+                "value": 1
+            },
+            {
+                "label": "hrané divadlo,soutěže",
+                "value": 1
+            },
+            {
+                "label": "Holčičí turnaj ve fotbale",
+                "value": 1
+            },
+            {
+                "label": "Hasiče a policii. Paní ředitelka nám slíbila, že sem pozve policii se psem.",
+                "value": 1
+            },
+            {
+                "label": "E-Sport:Turnaje v CS:GO,Lolko,Wot,Pubg,Fortnite nebo v Realm Royale ",
+                "value": 1
+            },
+            {
+                "label": "degustace ",
+                "value": 1
+            },
+            {
+                "label": "Čerti na Mikuláše",
+                "value": 1
+            },
+            {
+                "label": "* nesmyslné slovo",
+                "value": 1
+            }
+        ]
+    }
+]

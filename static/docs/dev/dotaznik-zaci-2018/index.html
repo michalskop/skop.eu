@@ -20,9 +20,11 @@
               <span class="text text-danger">Negativní odpovědi jsou v grafech červeně</span>
           </div>
           <div id="wait">
-              Malý moment, generuji grafy ...
+              Malý moment, generuji grafy a tabulky ...
           </div>
           <div id="charts">
+          </div>
+          <div id="tables">
           </div>
       </div>
 
@@ -102,6 +104,26 @@
                 })
                 d3.select("#wait").html('')
             })
+        })
+
+        // tables
+        d3.json("open_answers.json", function(answers) {
+            var i = 0
+            for (k in answers) {
+                d3.select("#tables").append("h3").html(answers[k]['question'])
+                var t = d3.select("#tables").append("table").attr("id", "table-" + i).attr("class", "table table-striped table-hover table-sm")
+                var th = t.append("thead")
+                var tb = t.append("tbody").attr("id", "table-body-" + i)
+                // var tr = th.append("tr")
+                // tr.append("th").html(answers[k]['question'])
+                // tr.append("th")
+                answers[k]['values'].forEach(function(d, i) {
+                    var tr = tb.append("tr")
+                    tr.append("td").html(d['value'])
+                    tr.append("td").html(d['label'])
+                })
+                i++
+            }
         })
     </script>
 
