@@ -58,6 +58,9 @@ V diskusi se ukázalo, že nikdo pořádně neví, kdo ji vlastně chce, stavět
 
 <i class="fa fa-file-o"></i> Dokumenty: [Video z projednávání na zastupitelstvu](https://youtu.be/OA9b-2eh7U4?t=32m38s), [zápis z jednání](http://www.plasy.cz/e_download.php?file=data/editor/506cs_2.pdf&original=Zast13-2017.pdf)
 
+### Rozhodnutí o umístění stavby 21.11.2016
+Rozhodnutí má platnost 2 roky. [Dokument](www.plasy.cz/e_download.php?file=data/uredni_deska/obsah1086_4.docx&original=IN+LINE+Rozhodnut%C3%AD.docx)
+
 ### In-line dráha v Plánu rozvoje města Plas
 #### 2015
 In-line dráha je zmiňována v Programu rozvoje města Plasy a navazujícím Akčním plánu.
@@ -84,3 +87,4 @@ Při veřejném projednávání 30.5.2018 byl **kritizován současný návrh, k
 
 ### <i class="fa fa-file-o"></i> Dokumenty ke stažení
 [Kompletní dokumenty poskytnuté městem ke stažení](/docs/in-line-2018/in-line.zip)
+[Rozhodnutí o umístění stavby](www.plasy.cz/e_download.php?file=data/uredni_deska/obsah1086_4.docx&original=IN+LINE+Rozhodnut%C3%AD.docx)

@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="cs">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <title>Dotazník - žáci 6.-9.třída, ZŠ Plasy, 6/2018</title>
+  </head>
+  <body>
+      <div class="container">
+          <h1>Dotazník - žáci 6.-9.třída, ZŠ Plasy, 6/2018</h1>
+          <div class="alert alert-info">
+              Velký graf je souhrn za všechny 4 třídy, malé grafy jsou po třídách.
+              <hr />
+              <span class="text text-success">Pozitivní odpovědi jsou v grafech zeleně</span><br />
+              <span class="text text-danger">Negativní odpovědi jsou v grafech červeně</span>
+          </div>
+          <div id="wait">
+              Malý moment, generuji grafy ...
+          </div>
+          <div id="charts">
+          </div>
+      </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <script src="//d3js.org/d3.v3.min.js"></script>
+    <!-- OR use a specific plotly.js release (e.g. version 1.5.0) -->
+    <script src="https://cdn.plot.ly/plotly-1.5.0.min.js"></script>
+
+    <script>
+        d3.json("data.json", function(fulldata) {
+            d3.json("scales.json", function(scales) {
+                fulldata.forEach(function(d, i) {
+                    // add divs
+                    var div = d3.select("#charts").append("div")
+                    div.attr("id", "question-" + i)
+                    var h3 = div.append("h3")
+                    h3.html(d['question'])
+                    var chartdiv = div.append("div")
+                    chartdiv.attr("id", "chart-" + i)
+
+                    // create overall chart
+                    var layout = {
+                        height: 400,
+                        widht: 500
+                    }
+                    var scale = scales[d['scale']]
+                    var labels = []
+                    var colors = []
+                    scale.forEach(function(s, j) {
+                        if (s['value'] == '')
+                            labels.push('Bez odpovědi')
+                        else
+                            labels.push(s['value'])
+                        colors.push(s['color'])
+                    })
+                    var data = [{
+                        values: d['all'].reverse(),
+                        labels: labels.reverse(),
+                        marker: {
+                            colors: colors.reverse()
+                        },
+                        type: 'pie',
+                        sort: false
+                    }]
+                    Plotly.newPlot("chart-" + i, data, layout)
+
+                    // create particular charts
+                    // add divs
+                    var row = div.append("div").attr("class", "row")
+                    for (var k = 6; k <= 9; k++) {
+                        row.append("div").attr("id", "chart-" + i + "-" + k).attr("class", "col-3")
+                    }
+                    // create class charts
+                    var layout = {
+                        height: 350,
+                        // widht: 250,
+                        showlegend: false
+                    }
+                    for (var kk = 6; kk <= 9; kk++) {
+                        var data = [{
+                            values: d['classes'][kk - 6]['values'].reverse(),
+                            labels: labels,
+                            marker: {
+                                colors: colors
+                            },
+                            type: 'pie',
+                            sort: false
+                        }]
+                        layout['title'] = kk + ". třída"
+                        Plotly.newPlot("chart-" + i + '-' + kk, data, layout)
+                        Plotly.newPlot("chart-" + i + '-' + kk, data, layout)
+                    }
+                })
+                d3.select("#wait").html('')
+            })
+        })
+    </script>
+
+  </body>
+</html>
