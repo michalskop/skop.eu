@@ -19,6 +19,10 @@ tags: ["Plasy"]
 <a href="#video">Video z veřejného projednávání (05/2018)</a>
 </div>
 
+## <a name="video"></a>Video-vizualizace od ŘSD
+Video-vizualizace od ŘSD z 17.10.2018
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xv__x4oQO58" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## <a name="vizualizace-nebreziny"></a>Vizualize od Nebřezin
 Z veřejného projednávání 14.5.2018
 

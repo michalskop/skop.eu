@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Volby 2017 a 2014 Praha</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+<style>
+
+.node rect {
+  cursor: move;
+  fill-opacity: .9;
+  shape-rendering: crispEdges;
+}
+
+.node text {
+  pointer-events: none;
+  text-shadow: 0 1px 0 #fff;
+}
+
+.link {
+  fill: none;
+  stroke: #000;
+  stroke-opacity: .2;
+}
+
+.link:hover {
+  stroke-opacity: .5;
+}
+
+.d3-tip {
+    line-height: 1;
+    font-weight: bold;
+    padding: 12px;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    border-radius: 2px;
+    pointer-events: none;
+    max-width: 400px;
+}
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+    box-sizing: border-box;
+    display: inline;
+    font-size: 10px;
+    width: 100%;
+    line-height: 1;
+    color: rgba(0, 0, 0, 0.8);
+    position: absolute;
+    pointer-events: none;
+}
+/* Northward tooltips */
+.d3-tip:after {
+    content: "\25BC";
+    margin: -1px 0 0 0;
+    top: 100%;
+    left: 0;
+    text-align: center;
+}
+.stronger {
+    font-weight: bold;
+    color: yellow;
+}
+</style>
+<body>
+
+<div class="container">
+    <h1 id="h1"><span id="h1name"></span> <small>2014 → 2017</small></h1>
+    <h3>Volby 2017 vs. volby 2014</h3>
+    <p>Odhad počtu voličů, kteří volili stranu X ve volbách 2017 a zároveň stranu Y ve volbách 2014. Plocha jednotlivých bodů odpovídá počtu takových voličů (najetím myší na body zjistíte počty; lidé, kteří nevolili ani v jedněch z voleb, nejsou zobrazeni).
+    <p id="chart">
+
+    <p>Odhad pomocí statistické metody ekologické inference z výsledků voleb v jednotlivých volebních místnostech. Hrubý odhad chyby vypočtených čísel je +-15%.
+    <p>CC-BY-SA Michal Škop
+</div>
+
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<script src="./d3.tips.js"></script>
+<script>
+
+var margin = {top: 10, right: 10, bottom: 10, left: 10},
+    width = 1000 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+var formatNumber = d3.format(",.0f"),    // zero decimal places
+    format = function(d) { return formatNumber(Math.round(d/50)*50); },
+    color = d3.scale.category20();
+
+// append the svg canvas to the page
+var svg = d3.select("#chart").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform",
+          "translate(" + margin.left + "," + margin.top + ")");
+
+// var nonvoters = {
+//     "name": "Nevoliči",
+//     "party": "Nevoliči",
+//     "color": "#444444",
+// }
+// var others = {
+//     "name": "Ostatní",
+//     "party": "Ostatní",
+//     "color": "#999999",
+// }
+// var plus = {
+//     "name": "Přibylí",
+//     "party": "Přibylí",
+//     "color": "#444444",
+// }
+// var minus = {
+//     "name": "Odešlí",
+//     "party": "Odešlí",
+//     "color": "#444444",
+// }
+
+d3.select("#h1name")
+    .html('Voličské přesuny');
+
+var name2data = {};
+// load the data
+d3.csv("list_2017_filtered.csv", function (er,da) {
+
+    d3.csv("list_2014_filtered.csv", function(err,daa) {
+
+        parties = [];
+        daa.forEach(function(d) {
+            parties.push(d.party + " 14");
+            name2data[d.party + " 14"] = d;
+        });
+        // parties.push(others.name + " 13");
+        // name2data[others.name + " 13"] = others;
+        // parties.push(minus.name + " 13");
+        // name2data[minus.name + " 13"] = minus;
+        // parties.push(nonvoters.name + " 13");
+        // name2data[nonvoters.name + " 13"] = nonvoters;
+
+
+        cands = []
+        da.forEach(function (d) {
+            cands.push(d.party + " 17");
+            name2data[d.party + " 17"] = d;
+        });
+        // cands.push(others.name + " 17");
+        // name2data[others.name + " 17"] = others;
+        // cands.push(plus.name + " 17");
+        // name2data[plus.name + " 17"] = plus;
+        // cands.push(nonvoters.name + " 17");
+        // name2data[nonvoters.name + " 17"] = nonvoters;
+
+
+        //set up scales
+        var x = d3.scale.linear()
+		             .domain([-5,parties.length])
+		             .range([0, width])
+		var y = d3.scale.linear()
+		             .domain([-3,cands.length])
+		             .range([0, height]);
+        var r = d3.scale.linear()
+		             .domain([0,Math.sqrt(150000)])
+		             .range([0,50]);
+        d3.text("matn_filtered.csv", function(text) {
+
+            var dat = d3.csv.parseRows(text).map(function(row) {
+                return row.map(function(value) {
+                    return +value;
+                });
+            });
+
+            points = [];
+            i = 0;
+            len = dat.length;
+            dat.forEach(function (d) {
+                len2 = d.length;
+                d.forEach(function (dd,ii) {
+                    if (((i + 1) < len) || ((ii + 1) < len2)) {
+                        points.push({
+                            'i': i,
+                            'j': ii,
+                            'value': dd,
+                            'd1': name2data[cands[ii]],
+                            'd2': name2data[parties[i]]
+                        })
+                    }
+                });
+                i++;
+             });
+
+             /* Initialize tooltip */
+             function my_round(n) {
+                 if (n < 10000) {
+                     return Math.round(n/1000)*1000;
+                 }
+                 return Math.round(n/2000)*2000;
+             }
+             tip = d3.tip().attr('class', 'd3-tip').html(function(d) {
+               return "<span>zhruba <span class='stronger'>" + my_round(d["value"]) + "</span> lidí volilo zároveň:<br><br><span class='stronger'>" + d.d1.party + "</span> v roce 2017<br><span class='stronger'>" + d.d2.party + "</span> v roce 2013<br>";
+             });
+
+             /* Invoke the tip in the context of your visualization */
+             svg.call(tip);
+
+             var circles = svg.selectAll(".circle")
+                .data(points)
+                    .enter()
+                .append("circle")
+                    .attr("cx",function(d) {
+                        return x(d.i);
+                    })
+                    .attr("cy",function(d) {
+                        return y(d.j);
+                    })
+                    .attr("r", function(d) {
+                        return r(Math.sqrt(d.value));
+                    })
+                    .attr("title", function(d) {
+                        return Math.round(d/50)*50;
+                    })
+                    .attr("fill", function(d) {
+                        return d.d1.color;
+                    })
+                    // .attr("stroke",function(d) {
+                    //     return d.d1.color;
+                    // })
+                    // .attr("stroke-width", function (d) {
+                    //     return Math.sqrt(d.value/100);
+                    // })
+                    .attr("fill-opacity", function(d) {
+                        return d.value/10000;
+                    })
+                    // .attr("stroke-opacity", function(d) {
+                    //     return d.value/2000;
+                    // })
+                    .on('mouseover', tip.show)
+                    .on('mouseout', tip.hide)
+                    ;
+
+            var cands_names = svg.selectAll(".text")
+                .data(cands)
+                    .enter()
+                .append("text")
+                    .attr("x", function() {
+                        return (x(-0.5));
+                    })
+                    .attr("y", function(d,i) {
+                        return y(i)+6;
+                    })
+                    .attr("text-anchor", "end")
+                    .attr("font-size",12)
+                    .text(function(d) {
+                        return d;
+                    });
+            var parties_names = svg.selectAll(".text")
+                .data(parties)
+                    .enter()
+                .append("text")
+                    .attr("x", function(d,i) {
+                        return (x(i));
+                    })
+                    .attr("y", function(d,i) {
+                        return y(-0.5);
+                    })
+                    .attr("transform", function(d,i) {
+                        return "rotate(-45,"+x(i)+","+y(-0.5)+")";
+                    })
+                    // .attr("text-anchor", "end")
+                    .attr("font-size",12)
+                    .text(function(d) {
+                        return d;
+                    })
+
+        });
+
+    });
+});
+
+
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-8592359-13', 'ocks.org');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
