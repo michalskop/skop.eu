@@ -1,0 +1,13 @@
+party_id,party_name,party,color,party_group,votes,previous
+1,Občanská demokratická strana,ODS,#004494,ODS,572962,ODS
+4,Česká strana sociálně demokratická,ČSSD,#f1953e,ČSSD,368347,ČSSD
+7,Starostové a nezávislí,STAN,#5d8c00,STAN,262157,STAN
+8,Komunistická strana Čech a Moravy,KSČM,#8c0000,KSČM,393100,KSČM
+15,Česká pirátská strana,Piráti,#000000,Piráti,546393,Piráti
+20,TOP 09,TOP 09,#723769,TOP 09,268811,TOP 09
+21,ANO 2011,ANO,#261060,ANO,1500113,ANO
+24,Křesťanská a demokratická unie – ČS strana lidová,KDU-ČSL,#e6ac21,KDU-ČSL,293643,KDU-ČSL
+29,Strana přímé demokracie - Tomio Okamura,SPD,#eb1b26,SPD,538574,Úsvit
+,,neparlamentní,#888,ostatní,,neparlamentní
+,,přibylí,#888,přibylí,,přibylí
+,,nevoliči,#888,nevoliči,,nevoliči
