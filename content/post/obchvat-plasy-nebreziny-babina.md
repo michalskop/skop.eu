@@ -13,11 +13,16 @@ tags: ["Plasy"]
 <strong>duben 2022</strong> - Plánovaný začátek stavby (dle ŘSD)<br>
 <strong>listopad 2024</strong> - Dokončení stavby (dle ŘSD)<br><br>
 <small>Rychlé odkazy:</small><br>
+<a href="#video">Video-vizualizace</a><br>
 <a href="#vizualizace-nebreziny">"Fotky" od Nebřezin (2018)</a><br>
 <a href="#vizualizace-plasy">"Fotky" od Plas a Nebřezin (2016)</a><br>
 <a href="#nakresy">Nákresy (2018)</a><br>
 <a href="#video">Video z veřejného projednávání (05/2018)</a>
 </div>
+
+## <a name="video"></a>Video-vizualizace od ŘSD
+Video-vizualizace od ŘSD z 17.10.2018
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xv__x4oQO58" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## <a name="vizualizace-nebreziny"></a>Vizualize od Nebřezin
 Z veřejného projednávání 14.5.2018
