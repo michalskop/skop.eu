@@ -13,12 +13,16 @@ tags: ["Plasy"]
 <strong>duben 2022</strong> - Plánovaný začátek stavby (dle ŘSD)<br>
 <strong>listopad 2024</strong> - Dokončení stavby (dle ŘSD)<br><br>
 <small>Rychlé odkazy:</small><br>
+<a href="#uzemni-rozhodnuti">Územní rozhodnutí</a><br>
 <a href="#video">Video-vizualizace</a><br>
 <a href="#vizualizace-nebreziny">"Fotky" od Nebřezin (2018)</a><br>
 <a href="#vizualizace-plasy">"Fotky" od Plas a Nebřezin (2016)</a><br>
 <a href="#nakresy">Nákresy (2018)</a><br>
 <a href="#video">Video z veřejného projednávání (05/2018)</a>
 </div>
+
+## <a name="uzemni-rozhodnuti"></a>Územní rozhodnutí
+7.11.2018 bylo zveřejněno Územní rozhodnutí o stavbě obchvatu: <a href="/docs/obchvat/obchvat_VV.doc">ke stažení</a> (<a href="http://www.plasy.cz/urad-361/uredni-deska/silnice-i-27-obchvat-plasy-1516.html">na úřední desce</a>)
 
 ## <a name="video"></a>Video-vizualizace od ŘSD
 Video-vizualizace od ŘSD z 17.10.2018
