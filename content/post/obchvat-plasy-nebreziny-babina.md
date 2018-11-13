@@ -10,11 +10,13 @@ tags: ["Plasy"]
 
 <div class="alert alert-info">
 <h3><i class="fa fa-info-circle"></i> Rychlé info:</h3>
-<strong>duben 2022</strong> - Plánovaný začátek stavby (dle ŘSD)<br>
-<strong>listopad 2024</strong> - Dokončení stavby (dle ŘSD)<br><br>
+<strong>2021</strong> - Plánované vydání stavebního rozhodnutí, vyhlášení výběrového řízení (dle ŘSD)<br>
+<strong>2023 <del>duben 2022</del></strong> - Plánovaný začátek stavby (dle ŘSD)<br>
+<strong>2025 <del>listopad 2024</del></strong> - Uvedení do provozu (dle ŘSD)<br><br>
 <small>Rychlé odkazy:</small><br>
 <a href="#uzemni-rozhodnuti">Územní rozhodnutí</a><br>
 <a href="#video">Video-vizualizace</a><br>
+<a href="#infoletak">Infoleták</a><br>
 <a href="#vizualizace-nebreziny">"Fotky" od Nebřezin (2018)</a><br>
 <a href="#vizualizace-plasy">"Fotky" od Plas a Nebřezin (2016)</a><br>
 <a href="#nakresy">Nákresy (2018)</a><br>
@@ -27,6 +29,9 @@ tags: ["Plasy"]
 ## <a name="video"></a>Video-vizualizace od ŘSD
 Video-vizualizace od ŘSD z 17.10.2018
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xv__x4oQO58" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## <a name="infoletak"></a>Infoleták od ŘSD
+10.10.2018 Infoleták ŘSD: <a href="/docs/obchvat/infoletak_s27-plasy-obchvat.pdf">ke stažení</a> (<a href="https://mapapp.rsd.cz/Upload/Stavby/220/infoletak_s27-plasy-obchvat.pdf">na webu ŘSD</a>)
 
 ## <a name="vizualizace-nebreziny"></a>Vizualize od Nebřezin
 Z veřejného projednávání 14.5.2018
