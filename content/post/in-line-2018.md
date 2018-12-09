@@ -30,6 +30,12 @@ Od areálu Velká louka k odbočce k Máji: In-line dráha je plánovaná asfalt
 
 <i class="fa fa-file-o"></i> Dokumenty: [Technická zpráva](/docs/in-line-2018/1.TECHNICKÁ ZPRÁVA.pdf), [plán 1. část](/docs/in-line-2018/B.2 KOORDINAČNÍ SITUACE-1.ČÁST.pdf), [plán 2. část](/docs/in-line-2018/B.2 KOORDINAČNÍ SITUACE-1.ČÁST.pdf), [Kompletní dokumenty poskytnuté městem ke stažení](/docs/in-line-2018/in-line.zip)
 
+### Zastupteilstvo 12.12.2018
+Rozhodnutí o smlouvě o stavbě.
+
+### Rada 5.12.2018
+Usnesení: RM doporučuje ZM ke schválení uzavření SoD na veřejnou zakázku malého rozsahu se společností BP STAVBY CZ s.r.o. Dýšina, IČ 25201506, za cenu 3.160.173,30 Kč. [3 823 809.70 Kč s DPH]
+
 ### Zastupitelstvo 13.6.2018
 Zastupitelstvo města 13.6.2018 nejprve (1.) hlasováním **rozhodlo o odmítnutí realizace stavby in-line dráhy a odmítnutí dotace** (de facto tím o zastavení projektu in-line dráhy). Nicméně po přestávce padl návrh na návrat k tomuto bodu. Hlasovalo se znovu, zda se k tomuto bodu vrátit. V (2.) hlasování zastupitelstvo rozhodlo o tom, že už se **k in-line dráze nebude vracet**.
 
