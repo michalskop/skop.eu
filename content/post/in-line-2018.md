@@ -7,15 +7,17 @@ categories: ["Plasy"]
 tags: ["Plasy", "zastupitelstvo"]
 ---
 <div class="alert alert-info">
-Stav 26.6.2018<br/>
+Stav 9.12.2018<br/>
 V současné době je <strong>schváleno zastupitelstvem přijetí dotace</strong> na in-line dráhu od sádek kolem areálu Velká louka, kolem lávky ke hřišti až k odbočce pěšinky na Máj.
-<p><strong>Není zatím schválena samotná stavba</strong> in-line dráhy v této variantě s plánovanou účastí města 2 miliony Kč.
+<p><strong>Není zatím schválena samotná stavba</strong> in-line dráhy v této variantě s plánovanou účastí města 824 tisíc. <strong>Rada města tuto variantu schválila</strong>. Rozhodne se <strong>12.12.2018 na zasedání Zastupitelstva</strong>.
 </div>
 ## <i class="fa fa-info-circle"></i> Info
 ### Ekonomika
-- Plánované náklady: 4.932 milionu Kč
+- Plánované náklady: 3.824 milionu Kč
 - Dotace od Plzeňského kraje: 3 miliony Kč
-- Plánovaný příspěvek města: ~ 2 miliony Kč
+- Plánovaný příspěvek města: 824 tisíc Kč
+
+Dokument: [Výběrové řízení](/docs/in-line-2018/130. Vyhodnocení nabídek Inline dráha Plasy.pdf)
 
 Dokument: [Plánovaný rozpočet](/docs/in-line-2018/položkový rozpočet inline.pdf)
 
