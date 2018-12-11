@@ -90,9 +90,9 @@ V [dotazníkové anketě](https://skop.eu/post/plan-2018/) před samotnou aktual
 
 Při veřejném projednávání 30.5.2018 byl **kritizován současný návrh, konkrétně jeho část od areálu Velká louka směrem proti proudu řeky**. Na druhou stranu zazněly názory, že in-line dráha by byla v Plasích vhodná (ale jinak vedená, vč. návrhů na jiné umístění). Tyto názory se odrazily i ve výsledném hlasování veřejnosti.
 
-V sekci Volný čas byla nejvíce hodnocené Srudie celkového řešení prostoru Velké louky - **napřed studii Kompletní před řešením detailů (in-line dráha, fitness, atd.)**.
+V sekci Volný čas byla nejvíce hodnocené Studie celkového řešení prostoru Velké louky - **napřed studii kompletní před řešením detailů (in-line dráha, fitness, atd.)**.
 
-Jako druhá v sekci Volný čas bylo Vybudování in-line dráhy **v prostoru Velké louky**. Dokončit **okruh kolem Velké louky** + vybudovat venkovní fitness pro mladé i důchodce, možná by byla in-line dráha k čističce.
+Jako druhá v sekci Volný čas bylo Vybudování in-line dráhy **v prostoru Velké louky** [tj. nikoliv směrem za areál Velké louky] . Dokončit **okruh kolem Velké louky** [zakruhování sádky-areál-koupaliště] + vybudovat venkovní fitness pro mladé i důchodce, možná by byla in-line dráha k čističce.
 
 <i class="fa fa-file-o"></i> Dokumenty:
 [Výsledky dotazníkové ankety](https://docs.google.com/spreadsheets/d/1E0oghxin98nIeB7N9B0rJp7jQvcrWTRU7IrIJx097G8/edit#gid=0), [Zápis z veřejně diskuse k aktualizaci Akčního plánu](/docs/in-line-2018/Plasy zápis 30V18 fin.docx), [Výsledky hlasování veřejnosti při veřejné diskusi o aktualizaci Akčního plánu](http://www.plasy.cz/e_download.php?file=data/editor/198cs_69.pdf&original=Zprav0183.pdf)
