@@ -7,15 +7,17 @@ categories: ["Plasy"]
 tags: ["Plasy", "zastupitelstvo"]
 ---
 <div class="alert alert-info">
-Stav 9.12.2018<br/>
-V současné době je <strong>schváleno zastupitelstvem přijetí dotace</strong> na in-line dráhu od sádek kolem areálu Velká louka, kolem lávky ke hřišti až k odbočce pěšinky na Máj.
-<p><strong>Není zatím schválena samotná stavba</strong> in-line dráhy v této variantě s plánovanou účastí města 824 tisíc. <strong>Rada města tuto variantu schválila</strong>. Rozhodne se <strong>12.12.2018 na zasedání Zastupitelstva</strong>.
+Stav 13.12.2018<br/>
+Zastupitelstvo hlasy ČSSD, ODS a "MY" <strong>schválilo stavbu "in-line dráhy" od sádek kolem areálu Velká louka, kolem lávky ke hřišti až k odbočce pěšinky na Máj</strong>.
+<p>Stavět se bude od <strong>března 2019 do června 2019</strong>
 </div>
 ## <i class="fa fa-info-circle"></i> Info
 ### Ekonomika
-- Plánované náklady: 3.824 milionu Kč
+- Plánované náklady: 3.824 milionu Kč (+ další náklady na kácení, apod.)
 - Dotace od Plzeňského kraje: 3 miliony Kč
-- Plánovaný příspěvek města: 824 tisíc Kč
+- Plánovaný příspěvek města: 824 tisíc Kč (+ další náklady na kácení, apod.)
+
+Dokument: [Smlouva](/docs/in-line-2018/smlouva.pdf)
 
 Dokument: [Výběrové řízení](/docs/in-line-2018/130. Vyhodnocení nabídek Inline dráha Plasy.pdf)
 
@@ -30,8 +32,37 @@ Od areálu Velká louka k odbočce k Máji: In-line dráha je plánovaná asfalt
 
 <i class="fa fa-file-o"></i> Dokumenty: [Technická zpráva](/docs/in-line-2018/1.TECHNICKÁ ZPRÁVA.pdf), [plán 1. část](/docs/in-line-2018/B.2 KOORDINAČNÍ SITUACE-1.ČÁST.pdf), [plán 2. část](/docs/in-line-2018/B.2 KOORDINAČNÍ SITUACE-1.ČÁST.pdf), [Kompletní dokumenty poskytnuté městem ke stažení](/docs/in-line-2018/in-line.zip)
 
-### Zastupteilstvo 12.12.2018
-Rozhodnutí o smlouvě o stavbě.
+### Zastupitelstvo 12.12.2018
+Rozhodnutí o smlouvě o stavbě. Zastupitelstvo schválilo stavbu in-line dráhy.
+
+Pro hlasovali:
+
+- <strong>ČSSD: Hanzlíček, Kovářík, Záhrobský, Soutner, Mařík, Brettl</strong>
+- <strong>ODS: Kornatovský, Radoš</strong>
+- <strong>"MY": Novotný</strong>
+
+Proti (a zdrželi se):
+
+- <strong>Nezávislí pro Plasko: Škop, Pořádková, Gross, Jakeš</strong>
+- <strong>KDU-ČSL: Lorenzová</strong>
+
+Kompromisní hlasování, aby se jednalo s Plzeňským krajem o úpravě projektu - zkrácení o nejkontroverznější část, tedy vyasfaltování jen k lávce na hřiště.
+
+Pro:
+
+- Nezávislí pro Plasko: Škop, Pořádková
+
+Zdrželi se:
+
+- Nezávislí pro Plasko: Gross, Jakeš
+- KDU-ČSL: Lorenzová
+
+Proti:
+
+- ČSSD: Hanzlíček, Kovářík, Záhrobský, Soutner, Mařík, Brettl
+- ODS: Kornatovský, Radoš
+- "MY": Novotný
+
 
 ### Rada 5.12.2018
 Usnesení: RM doporučuje ZM ke schválení uzavření SoD na veřejnou zakázku malého rozsahu se společností BP STAVBY CZ s.r.o. Dýšina, IČ 25201506, za cenu 3.160.173,30 Kč. [3 823 809.70 Kč s DPH]
