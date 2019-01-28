@@ -96,6 +96,22 @@ Orientační cena dle rozměrů Plasy Projekt č. 1 (stavba, základní vybaven�
 
 [Ceník](https://www.koma-modular.cz/sites/default/files/ke_stazeni/cenik_1.1.2018_en.pdf)
 
+### Mateřská škola Drásov (dřevostavba)
+Včetně příjezdové komunikace
+
+![Drásov](/img/zakladni-skola-2019/drasov1.jpg)
+![Drásov](/img/zakladni-skola-2019/drasov2.jpg)
+
+- rok výstavby 2014
+- 24 mil. bez DPH (stavba + komunikace)
+- 962 m2 (474 + 488; 592m2 vnější)
+- 5 tříd (po 100+ m2)
+- ZS Jihlava
+
+[Detail veřejné zakázky](https://www.e-zakazky.cz/Detail-Verejne-Zakazky/b08b6424-4528-4dd8-ab2a-f0557ab85bcc/8345), [ZS Jihlava -fotky](http://www.zsj.cz/drevostavba-materske-skoly-drasov), [Základní info drasov.cz](http://www.drasov.cz/novostavba-budovy-materske-skoly/ds-1118/archiv=0)
+
+Orientační cena dle rozměrů Plasy Projekt č. 1 (stavba): 15.9 mil. (s DPH) / 526 m2 (stavba)
+
 ### Mateřská škola Bílá (dřevostavba)
 ![Bílá](/img/zakladni-skola-2019/bila.jpg)
 ![Bílá](/img/zakladni-skola-2019/bila2.jpg)
@@ -124,6 +140,18 @@ Orientační cena dle rozměrů Plasy Projekt č. 1 (stavba): 13.2 mil. / 526 m2
 [Urbio Sisto](https://urbiosisto.cz/projekty/prezletice-22), [IROP](http://www.irop.mmr.cz/cs/Projekty/06-2-Zkvalitneni-verejnych-sluzeb-a-podminek-zivot/Novostavba-pavilonu-materske-skoly-Prezletice)
 
 Orientační cena dle rozměrů Plasy Projekt č. 1 (stavba): 16.8 mil. / 526 m2 (pozn.: zde ale jen 2 třídy)
+
+### Venkovní zastřešené koridory
+(Mind the Palmtrees)
+![Hallway](/img/zakladni-skola-2019/hallway1.jpg)
+
+![Hallway](/img/zakladni-skola-2019/hallway2.jpg)
+
+![Hallway](/img/zakladni-skola-2019/3-morpeth-school-container-classrooms1.jpg)
+[Londýn](https://weburbanist.com/2009/12/21/18-super-shipping-container-schools-youth-centers-and-hotels/3-morpeth-school-container-classrooms-2/)
+
+### "Plán C" ☺
+![Hallway](/img/zakladni-skola-2019/planc.jpg)
 
 ## <a name="plasy-soucasny-stav-budovy"></a>Plasy - současný stav budovy
 
