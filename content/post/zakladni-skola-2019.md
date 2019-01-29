@@ -330,7 +330,7 @@ Z diskuse:
 - M. Dudek: deklaroval závazek ZM k financování a vlastní realizaci úprav
 - J. Průšová: Navrhla neměnit současné umístění tříd do doby výstavby nového pavilony pro nižší stupeň. V další části informovala o pracovní verzi vyhlášky MŠMT ve věci inkluze - zvýšení počtu dětí na nižším stupni, příchod dalších dětí mimo spádovou oblast, tzn. **může být více než 11 kmenových tříd**
 - M. Radoš: navrhl určit jednoznačné priority (určit akce, jejichž realizace může počkat), připomněl, že peníze městu nezbývají, pouze se více půjčuje. Volné finanční prostředky města doporučil šetřit na výstavbu pavilonu.
-- I. Filipová: jako předsedkyně školské rady informovala, že 7.12.2018 na jednání školské rady 8 členů [z 9] se shodlo na rizicích pro ZŠ vzniklých směnou budov - zopakovala rizika prezentovaná ředitelkou školy a Ing. Škopem. V závěru upozornila na záměr rušení vzdělávacích programů Praktických škol a možný přechod žáků z těchto škol do ZŠ včetně asistentů
+- I. Filipová: jako předsedkyně školské rady informovala, že 7.12.2015 na jednání školské rady 8 členů [z 9] se shodlo na rizicích pro ZŠ vzniklých směnou budov - zopakovala rizika prezentovaná ředitelkou školy a Ing. Škopem. V závěru upozornila na záměr rušení vzdělávacích programů Praktických škol a možný přechod žáků z těchto škol do ZŠ včetně asistentů
 
 
 Hlasování:
