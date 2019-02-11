@@ -1,5 +1,5 @@
 ---
-title: "Základní škola 2019"
+title: "Základní škola Plasy - přístavba 2019"
 date: 2019-01-28T00:34:20+01:00
 draft: false
 image: "img/zakladni-skola-2019/vizualizace1.jpg"
