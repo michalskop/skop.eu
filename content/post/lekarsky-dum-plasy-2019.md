@@ -21,6 +21,22 @@ Další náklady (nekompletní seznam):
 - RTG: ?
 - DPH: možný odpočet? (jaký je poměr nájemníků plátců/neplátců?)
 
+#### Plánovaná ekonomika LD
+Ročně
+
+- Příjmy: 1 200 000 Kč
+- Výdaje: 580 000 Kč (úklid + údržba 250, energie 100, pojištění 30, opravy materiál 100, služby 100); bez odpisů
+- Plánovaná ekonomická návratnost celého projektu tedy zhruba 115 let, "plaské části nákladů" zhruba 50 let
+
+<i class="fa fa-info-circle"></i> Info: [Předpokládané příjmy a výdaje](/docs/lekarsky-dum-2019/prijmy_a_vydaje.pdf)
+
+#### Rekapitulace prostředků města
+_(hrubé odhady do roku 2020, miliony)_
+
+- _K dispozici: +-17 = 7 (na účtě volných k 1.1.2019) + 3 (ušetření oproti rozpočtu 2019) + 7 (volných na 2020, mezi 5-10)_
+- _Potřeba: 16 (lékařský dům) + 10 až 30 (základní škola)_
+
+
 ## Veřejná zakázka
 
 Použit projekt z dubna 2018, žádná novější úprava tam nebyla.
