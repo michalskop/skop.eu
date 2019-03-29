@@ -10,7 +10,7 @@ tags: ["Plasy", "zastupitelstvo"]
 
 ## Cena
 
-- Cena stavby dle Rady (+ tech. dozor, ...): **56 mil.**
+- Schválení cena stavby zastupitelstvem (+ tech. dozor, ...): **56 mil.**
 - Vysoutěžená cena stavby: **54.427 mil.** s DPH (44.980 mil. bez)
 - Předpokládaná hodnota veřejné zakázky: 48 mil. s DPH (39.667 mil. bez)
 
@@ -19,7 +19,7 @@ Další náklady (nekompletní seznam):
 - Projektová dokumentace (zaplaceno 2018): 1.392 mil.
 - nákup budovy od Jednoty (zaplaceno 01/2019): 11.520 mil
 - RTG: ?
-- DPH: možný odpočet? (jaký je poměr nájemníků plátců/neplátců?)
+- DPH: nepočítá se s odpočtem (možný odpočet? - jaký je poměr nájemníků plátců/neplátců?)
 
 #### Plánovaná ekonomika LD
 Ročně
@@ -33,7 +33,7 @@ Ročně
 #### Rekapitulace prostředků města
 _(hrubé odhady do roku 2020, miliony)_
 
-- _K dispozici: +-17 = 7 (na účtě volných k 1.1.2019) + 3 (ušetření oproti rozpočtu 2019) + 7 (volných na 2020, mezi 5-10)_
+- _K dispozici: +-13 = 7 (na účtě volných k 1.1.2019) + 3 (ušetření oproti rozpočtu 2019) + 7 (volných na 2020, mezi 5-10) - 4 rozpočtové opatření č. 2/2019_
 - _Potřeba: 16 (lékařský dům) + 10 až 30 (základní škola)_
 
 
@@ -61,11 +61,17 @@ Bude nutná oprava stávajících okenních otvorů a vybourání nových otvor�
 
 ## Historie
 ### 13.2.2019 Zastupitelstvo
+- Schválilo
+
+[Zápis](http://www.plasy.cz/e_download.php?file=data/editor/546cs_2.pdf&original=323.%20ZM%203%20z%C3%A1pis%20-%2013.2.2019%20pro%20web.pdf), [video](https://youtu.be/2boU3Tp7B8g?t=871)
 
 ### 11.2.2019 Finanční výbor
+- Schválil
 
 ### 6.2.2019 Rada města
 - RM doporučuje ZM schválit výsledek výběrového řízení na rekonstrukci a přístavbu Lékařského domu v Plasích, Dále doporučuje schválit realizaci akce dodavatelem BIS a.s., Plzeň, IČO 40526151 za cenu 44.980.733,61Kč (cena bez DPH). Financování stavby - 40 mil. Kč dotace, cca 16mil.,- Kč bude hrazeno z vlastních finančních prostředků města v r. 2019 a 2020. Město se bude snažit získat dotační prostředky na zbývající úhradu, aby nemuselo tyto hradit ze svého rozpočtu.
+
+[Zápis](http://www.plasy.cz/e_download.php?file=data/editor/542cs_3.pdf&original=Z%C3%A1pis%20z%20jedn%C3%A1n%C3%AD%20RM%2006.02.2019.pdf)
 
 ### 5.2.2019 Český rozhlas
 [**Plasy na severním Plzeňsku letos začnou stavět lékařský dům**](https://plzen.rozhlas.cz/plasy-na-severnim-plzensku-letos-zacnou-stavet-lekarsky-dum-7754628) - _aneb když je to hotová věc, tak na co RM, FV, ZM?_
