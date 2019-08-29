@@ -7,58 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>cs</language>
     <copyright>CC-BY-SA-NC.</copyright>
-    <lastBuildDate>Mon, 06 Nov 2017 05:52:20 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2019 00:14:20 +0100</lastBuildDate>
     
 	<atom:link href="https://skop.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Mapy</title>
-      <link>https://skop.eu/tags/mapy/</link>
-      <pubDate>Mon, 06 Nov 2017 05:52:20 +0100</pubDate>
-      
-      <guid>https://skop.eu/tags/mapy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Plasy</title>
       <link>https://skop.eu/tags/plasy/</link>
-      <pubDate>Sun, 10 Feb 2019 02:14:20 +0100</pubDate>
+      <pubDate>Thu, 29 Aug 2019 00:14:20 +0100</pubDate>
       
       <guid>https://skop.eu/tags/plasy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Průzkumy</title>
-      <link>https://skop.eu/tags/pr%C5%AFzkumy/</link>
-      <pubDate>Fri, 23 Dec 2016 15:52:20 +0200</pubDate>
+      <title>zastupitelstvo</title>
+      <link>https://skop.eu/tags/zastupitelstvo/</link>
+      <pubDate>Thu, 29 Aug 2019 00:14:20 +0100</pubDate>
       
-      <guid>https://skop.eu/tags/pr%C5%AFzkumy/</guid>
+      <guid>https://skop.eu/tags/zastupitelstvo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Statistika</title>
-      <link>https://skop.eu/tags/statistika/</link>
-      <pubDate>Mon, 23 Oct 2017 05:52:20 +0200</pubDate>
-      
-      <guid>https://skop.eu/tags/statistika/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Volby</title>
-      <link>https://skop.eu/tags/volby/</link>
-      <pubDate>Mon, 06 Nov 2017 05:52:20 +0100</pubDate>
-      
-      <guid>https://skop.eu/tags/volby/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Volby 2018</title>
+      <title>volby 2018</title>
       <link>https://skop.eu/tags/volby-2018/</link>
       <pubDate>Thu, 06 Sep 2018 08:52:20 +0200</pubDate>
       
@@ -67,7 +40,34 @@
     </item>
     
     <item>
-      <title>Volební Kalkulačka</title>
+      <title>mapy</title>
+      <link>https://skop.eu/tags/mapy/</link>
+      <pubDate>Mon, 06 Nov 2017 05:52:20 +0100</pubDate>
+      
+      <guid>https://skop.eu/tags/mapy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>volby</title>
+      <link>https://skop.eu/tags/volby/</link>
+      <pubDate>Mon, 06 Nov 2017 05:52:20 +0100</pubDate>
+      
+      <guid>https://skop.eu/tags/volby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>statistika</title>
+      <link>https://skop.eu/tags/statistika/</link>
+      <pubDate>Mon, 23 Oct 2017 05:52:20 +0200</pubDate>
+      
+      <guid>https://skop.eu/tags/statistika/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>volební kalkulačka</title>
       <link>https://skop.eu/tags/volebn%C3%AD-kalkula%C4%8Dka/</link>
       <pubDate>Sat, 14 Oct 2017 15:52:20 +0100</pubDate>
       
@@ -76,11 +76,11 @@
     </item>
     
     <item>
-      <title>Zastupitelstvo</title>
-      <link>https://skop.eu/tags/zastupitelstvo/</link>
-      <pubDate>Sun, 10 Feb 2019 02:14:20 +0100</pubDate>
+      <title>průzkumy</title>
+      <link>https://skop.eu/tags/pr%C5%AFzkumy/</link>
+      <pubDate>Fri, 23 Dec 2016 15:52:20 +0200</pubDate>
       
-      <guid>https://skop.eu/tags/zastupitelstvo/</guid>
+      <guid>https://skop.eu/tags/pr%C5%AFzkumy/</guid>
       <description></description>
     </item>
     

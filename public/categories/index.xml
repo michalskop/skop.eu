@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>cs</language>
     <copyright>CC-BY-SA-NC.</copyright>
+    <lastBuildDate>Thu, 29 Aug 2019 00:14:20 +0100</lastBuildDate>
     
 	<atom:link href="https://skop.eu/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,18 +15,9 @@
     <item>
       <title>Plasy</title>
       <link>https://skop.eu/categories/plasy/</link>
-      <pubDate>Sun, 10 Feb 2019 02:14:20 +0100</pubDate>
+      <pubDate>Thu, 29 Aug 2019 00:14:20 +0100</pubDate>
       
       <guid>https://skop.eu/categories/plasy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Průzkumy</title>
-      <link>https://skop.eu/categories/pr%C5%AFzkumy/</link>
-      <pubDate>Fri, 23 Dec 2016 15:52:20 +0200</pubDate>
-      
-      <guid>https://skop.eu/categories/pr%C5%AFzkumy/</guid>
       <description></description>
     </item>
     
@@ -39,11 +31,20 @@
     </item>
     
     <item>
-      <title>Volební Kalkulačka</title>
+      <title>Volební kalkulačka</title>
       <link>https://skop.eu/categories/volebn%C3%AD-kalkula%C4%8Dka/</link>
       <pubDate>Sat, 14 Oct 2017 15:52:20 +0100</pubDate>
       
       <guid>https://skop.eu/categories/volebn%C3%AD-kalkula%C4%8Dka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Průzkumy</title>
+      <link>https://skop.eu/categories/pr%C5%AFzkumy/</link>
+      <pubDate>Fri, 23 Dec 2016 15:52:20 +0200</pubDate>
+      
+      <guid>https://skop.eu/categories/pr%C5%AFzkumy/</guid>
       <description></description>
     </item>
     
