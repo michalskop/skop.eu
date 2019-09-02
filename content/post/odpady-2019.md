@@ -6,8 +6,6 @@ image: "img/odpady-2019/popelnice.jpg"
 categories: ["Plasy"]
 tags: ["Plasy", "zastupitelstvo"]
 ---
-># Odpady Plasy - 2019
-
 ## Pracovní komise
 Složení: Dlouhý, Zídek, Škop
 
@@ -19,3 +17,6 @@ Poznámky M.Škop: [Odpady - data](https://docs.google.com/document/d/1nfkFIuZ7v
 
 ### MESOH
 [Návrh zavedení MESOH ve městě Plasy](/docs/odpady-2019/Zavedení MESOH ve městě Plasy.pdf)
+
+### Econit
+[Návrh zavedení systému Econit v Plasích](/docs/odpady-2019/Econit Plasy.pdf)
