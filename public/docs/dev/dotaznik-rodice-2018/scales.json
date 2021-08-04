@@ -1,0 +1,232 @@
+{
+    "S": [
+        {
+            "value": "Zcela souhlasím",
+            "color": "#008800"
+        },
+        {
+            "value": "Spíše souhlasím",
+            "color": "#00ff00"
+        },
+        {
+            "value": "Ani souhlas, ani nesouhlas",
+            "color": "#ddddff"
+        },
+        {
+            "value": "Spíše nesouhlasím",
+            "color": "#ff0000"
+        },
+        {
+            "value": "Zcela nesouhlasím",
+            "color": "#880000"
+        },
+        {
+            "value": "Neumím říci",
+            "color": "#666666"
+        },
+        {
+            "value": "",
+            "color": "#222222"
+        }
+    ],
+    "SX": [
+        {
+            "value": "Žena",
+            "color": "#B882ED"
+        },
+        {
+            "value": "Muž",
+            "color": "#0080FF"
+        },
+        {
+            "value": "Vyplňuje nás to víc",
+            "color": "#ddddff"
+        }
+    ],
+    "AN": [
+        {
+            "value": "Ano",
+            "color": "#008000"
+        },
+        {
+            "value": "Ne",
+            "color": "#800000"
+        },
+        {
+            "value": "",
+            "color": "#222222"
+        }
+    ],
+    "S2": [
+        {
+            "value": "Dostatečně",
+            "color": "#008800"
+        },
+        {
+            "value": "Tyto dovednosti by se měly učit více",
+            "color": "#888800"
+        },
+        {
+            "value": "Nedostatečně",
+            "color": "#880000"
+        },
+        {
+            "value": "Neumím říci",
+            "color": "#666666"
+        },
+        {
+            "value": "",
+            "color": "#222222"
+        }
+    ],
+    "S3": [
+        {
+            "value": "Příliš",
+            "color": "#ff8800"
+        },
+        {
+            "value": "Tak akorát",
+            "color": "#008800"
+        },
+        {
+            "value": "Příliš málo",
+            "color": "#ff0000"
+        },
+        {
+            "value": "Vůbec",
+            "color": "#880000"
+        },
+        {
+            "value": "Neumím říci",
+            "color": "#666666"
+        },
+        {
+            "value": "",
+            "color": "#222222"
+        }
+    ],
+    "S4": [
+        {
+            "value": "Ano",
+            "color": "#008800"
+        },
+        {
+            "value": "Tak napůl",
+            "color": "#ddddff"
+        },
+        {
+            "value": "Ne",
+            "color": "#880000"
+        },
+        {
+            "value": "Neumím říci",
+            "color": "#666666"
+        },
+        {
+            "value": "",
+            "color": "#222222"
+        }
+    ],
+    "SR": [
+        {
+            "value": "Zcela souhlasím",
+            "color": "#880000"
+        },
+        {
+            "value": "Trochu souhlasím",
+            "color": "#ff0000"
+        },
+        {
+            "value": "Ani souhlas, ani nesouhlas",
+            "color": "#ddddff"
+        },
+        {
+            "value": "Trochu nesouhlasím",
+            "color": "#00ff00"
+        },
+        {
+            "value": "Zcela nesouhlasím",
+            "color": "#008800"
+        },
+        {
+            "value": "Neumím říci",
+            "color": "#666666"
+        },
+        {
+            "value": "",
+            "color": "#222222"
+        }
+    ],
+    "A": [
+        {
+            "value": "Ano",
+            "color": "#008000"
+        },
+        {
+            "value": "Ne",
+            "color": "#800000"
+        },
+        {
+            "value": "Někdy",
+            "color": "#bbbbbb"
+        }
+    ],
+    "F": [
+        {
+            "value": "Ani jednou",
+            "color": "#008000"
+        },
+        {
+            "value": "Jednou",
+            "color": "#ff0000"
+        },
+        {
+            "value": "Několikrát",
+            "color": "#800000"
+        }
+    ],
+    "T": [
+        {
+            "value": "Alespoň 1x týdně",
+            "color": "#008000"
+        },
+        {
+            "value": "1x-2x měsíčně",
+            "color": "#00ff00"
+        },
+        {
+            "value": "1x-2x za půl roku",
+            "color": "#ff0000"
+        },
+        {
+            "value": "Nikdy",
+            "color": "#800000"
+        }
+    ],
+    "F2": [
+        {
+            "value": "Ano",
+            "color": "#008000"
+        },
+        {
+            "value": "Většinou ano",
+            "color": "#00ff00"
+        },
+        {
+            "value": "Někdy",
+            "color": "#bbbbbb"
+        },
+        {
+            "value": "Většinou ne",
+            "color": "#ff0000"
+        },
+        {
+            "value": "Ne",
+            "color": "#800000"
+        },
+        {
+            "value": "",
+            "color": "#666666"
+        }
+    ]
+}
