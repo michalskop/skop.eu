@@ -1,0 +1,32 @@
+{
+    "S": [
+        {
+            "value": "Ano",
+            "color": "#008800"
+        },
+        {
+            "value": "Spíše ano",
+            "color": "#00ff00"
+        },
+        {
+            "value": "Ani ano, ani ne",
+            "color": "#ddddff"
+        },
+        {
+            "value": "Spíše ne",
+            "color": "#ff0000"
+        },
+        {
+            "value": "Ne",
+            "color": "#880000"
+        },
+        {
+            "value": "Neumím říci",
+            "color": "#666666"
+        },
+        {
+            "value": "",
+            "color": "#222222"
+        }
+    ]
+}

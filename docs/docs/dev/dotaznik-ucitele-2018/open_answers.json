@@ -1,0 +1,39 @@
+[{
+        "question": "Je něco, co byste rád/a dodala?",
+        "values": [
+            {"label": "potřeba přístavby nového pavilonu pro zvětšení prostor k výuce"},
+            {"label": "inkluze na ZŠ je po zkušenostech absolutní nesmysl"},
+            {"label": "Ne."},
+            {"label": "neexistují kritéria (nebo ped. prac. nejsou známa) finančního hodnocení-tzv. nadtarifní složka platu, asi tak 10 let stejná, kritéria nejsou pravidelně přehodnocovaná, nízké ohodnocení za třídnictví- za naše tzv. poslání učitelů nám platbu za nákupy neodpustí nikde"},
+            {"label": "Otázky jsou velmi obecné, nekonstruktivní."}
+        ]
+    },
+    {
+        "question": "Něco dalšího, co se Vám na škole líbí?",
+        "values":[
+            {"label": "Pracovní kolektiv, možnost chodit ven během velké přestávky, umístění školy v zeleni"},
+            {"label": "malá škola rodinného typu v pěkném prostředí, modernizovaná"},
+            {"label": "škole je na klidném místě , kolem hřiště, zeleň, třídy podle možností vcelku pěkně vybavené, pěkná jídelna"},
+            {"label": "vcelku dobré vybavení tříd"},
+            {"label": "Záviděníhodná poloha školy."}
+        ]
+    },
+    {
+        "question": "Něco dalšího, co se Vám ve škole nelíbí?",
+        "values":[
+            {"label": "Nedostatek prostoru.Nesmyslnost prodeje poloviny školy."},
+            {"label": "nelíbí se mi, že je škola průchozí, nemá dostatek učeben, odborné učebny se mění na kmenové, není sborovna, kabinety malé, ředitelka a zástupkyně by měly mít každá svoji kancelář, není klidné místo, kde za provozu pohovořit s rodičem, ........"},
+            {"label": "potřeba více pozitivní motivace k práci od vedení školy"},
+            {"label": "velká administrativní zátěž, která stále narůstá, velké množství dozorů, velký hluk na chodbách, ve školní jídelně, nedostatečná kapacita WC pro pedagogické pracovnice o přestávkách- musíme do jiného poschodí, vystát frontu, popřípadě jít při vyučování, přesun studentů gymnázia do tělocvičny v době odchodu žáků na oběd- předimenzovaná chodba u šaten, chybí prostor pro práci dětí zařazených do inkluze- relaxují nebo se učí na chodbě"},
+            {"label": "Velmi malé prostory pro družinu a pro zázemí (kabinety )učitelů, chybějící společná sborovna."}
+        ]
+    },{
+        "question": "Co říkáte na tento dotazník?",
+        "values":[
+            {"label": "dobrý nápad,jak se vyjádřit"},
+            {"label": "Nedokážu posoudit vztah mezi ostatními učiteli a žáky školy, zda jsou vstřícní, nechávají prostor pro iniciativu a samostatnou práci žáků. "},
+            {"label": "Sestavit dotazník je velmi obtížné, aby ukázal konstruktivní výstupy. Moc si od něj neslibuji. "},
+            {"label": "snad pomůže ke zlepšení situace"}
+        ]
+    }
+]

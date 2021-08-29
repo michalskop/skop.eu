@@ -1,0 +1,12 @@
+party_id,party_name,party,color,party_group
+0,Nevyužité hlasy,Nevyužité,#444,nevyužité
+1,"TROJKOALICE SZ, KDU-ČSL, STAN",3K,#e6ac21,KDU-ČSL
+3,Česká strana sociálně demokratická,ČSSD,#F07D00,ČSSD
+9,Komunistická strana Čech a Moravy,KSČM,#8c0000,KSČM
+18,ANO 2011,ANO,#261060,ANO
+19,Piráti,Piráti,#000000,Piráti
+24,Občanská demokratická strana,ODS,#004494,ODS
+25,TOP 09,TOP 09,#723769,TOP 09
+,,neparlamentní,#888,neparlamentní
+,,odešlí,#888,přibylí
+,,nevoliči,#888,nevoliči

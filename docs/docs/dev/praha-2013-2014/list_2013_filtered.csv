@@ -1,0 +1,12 @@
+party_id,party_name,party,color,party_group
+1,Česká strana sociálně demokratická,ČSSD,#F07D00,ČSSD
+3,Česká pirátská strana,Piráti,#000000,Piráti
+4,TOP 09,TOP 09,#723769,TOP 09
+6,Občanská demokratická strana,ODS,#004494,ODS
+11,Křesťanská a demokratická unie - Československá strana lidová,KDU-ČSL,#e6ac21,KDU-ČSL
+17,Úsvit přímé demokracie Tomia Okamury,Úsvit,#f51941,Úsvit
+19,ANO 2011,ANO,#261060,ANO
+20,Komunistická strana Čech a Moravy,KSČM,#8c0000,KSČM
+,,neparlamentní,#888,neparlamentní
+,,odešlí,#888,přibylí
+,,nevoliči,#888,nevoliči
